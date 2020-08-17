@@ -12,13 +12,13 @@ links:
     url: https://www.webassign.net/login.html
 ---
 
-- [Fox's notes](/static/year1/cap_reference.pdf) ([src](https://github.com/aptgetmoo/cap))
+- [Fox's notes](/resources/year1/cap_reference.pdf) ([src](https://github.com/aptgetmoo/cap))
 - Cheat sheet PDFs of the [definitions](/drive?next=1UXuWJupUwL2aSPcDRWroDzdB2AJecDXv) and [theorems](/drive?next=1-hBc0-HDryIddgAXvuInseQ_x-bsAarR) to save you time in the exam (no need to search through the textbook)
 - [SympyGamma](http://www.sympygamma.com/) - a tool similar to WolframAlpha, but also offering explanation for derivations. 
 - [Answers for Essential calculus](http://slader.com/textbook/9781133112280-stewart-essential-calculus-early-transcendentals-2nd-edition/)
 - [Riemann sums](https://www.desmos.com/calculator/tgyr42ezjq) online calculator
 - [Lots of formulae](http://mei.org.uk/files/pdf/formula_book_mf2.pdf)
-- [Amazing mindmap](/static/year1/HL_Calculus_Option_Mind_Map.compressed.pdf)
+- [Amazing mindmap](/resources/year1/HL_Calculus_Option_Mind_Map.compressed.pdf)
 - Tests of Convergence: [cheat sheet](http://www.toomey.org/tutor/harolds_cheat_sheets/Harolds_Series_Convergence_Tests_Cheat_Sheet_2016.pdf), [flow chart](https://www.studystandard.com/document/21574/preview)
 
 <!--
