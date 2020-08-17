@@ -1,0 +1,63 @@
+
+{% assign section=page %}
+{% assign course = site.data.courses.list[section.course-acronym] %}
+{% if course %}
+    {% assign semester = course.delivery_ordinal %}
+{% else %}
+    {% assign semester = section.semester %}
+{% endif %}
+
+{% if semester == site.data.settings.semester or semester == 100 or semester == 3 %}
+    {% capture sectionStyle %}{% endcapture %}
+{% else %}
+    {% capture sectionStyle %}style="display: none;"{% endcapture %}
+{% endif %}
+{% capture sectionID %}
+    {% if section.course-acronym != "" %}{{ section.course-acronym }}{% else %}{{ section.title | slugify }}{% endif %}
+{% endcapture %}
+<section id="{{ sectionID | strip }}" data-semester="{{ semester }}" {{ sectionStyle }}>
+    <h3>
+        <span>
+            {% if section.link %}
+                <a href="{{ section.link }}">
+            {% elsif section.course-acronym != "" %}
+                {% if section.learn %}
+                    <a href="https://course.inf.ed.ac.uk/{{ section.course-acronym }}/">
+                {% else %}
+                    <a href="https://www.inf.ed.ac.uk/teaching/courses/{{ section.course-acronym }}/">
+                {% endif %}
+            {% endif %}
+            {{ section.title }}
+            {% if section.link or section.course-acronym != "" %}
+                </a>
+            {% endif %}
+
+            <small>
+            {% if section.links %}
+                {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
+            {% endif %}
+            {% if course %}
+                |
+                <a href="{{ course.euclid_url }}">drps</a>,
+                <a href="http://course.inf.ed.ac.uk/{{ section.course-acronym }}">info</a>{% if course.cw_exam_ratio.first != 100 %},
+                <a href="https://exampapers.ed.ac.uk/search/{{ course.euclid_code }}">papers</a>
+                {% endif %}
+                {% if course.year != page.year %}
+                This course is misplaced. It should be on the year {{ course.year }} page.
+                {% endif %}
+            {% endif %}
+            </small>
+
+            <a class="link-icon" href="#{{ sectionID | strip }}"><i class="fa fa-link" aria-hidden="true"></i></a>
+        </span>
+
+        <span>
+            {% if course and course.diet and course.diet != "" %}
+            <span style="color: gray; font-size: .6rem;">{{ course.diet }} exam</span>
+            {% endif %}
+            <small><a class="edit-pencil" href="https://github.com/{{ site.data.repo }}/edit/master/{{ section.path }}"><i class="fa fa-pencil" aria-hidden="true"></i> Edit on GitHub</a></small>
+        </span>
+
+    </h3>
+    {{ section }}
+</section>

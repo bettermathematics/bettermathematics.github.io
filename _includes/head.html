@@ -1,0 +1,29 @@
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="{{ site.description }}">
+
+    {% if (page.redirect != "") and (page.redirect != nil) %}<meta http-equiv="refresh" content="0;URL='{{ page.redirect }}'" />{% endif %}
+    
+    {% capture title %}{% if page.short-title %}{{ page.short-title }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
+    {% capture hasTitle %}{% if (title != "") and (title != nil) %}true{% else %}false{% endif %}{% endcapture %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:title" content="Better Mathematics" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/static/img/puzzle.png" />
+    
+    <link rel="icon" href="{{ site.baseurl }}/static/img/puzzle.png" type="image/png">
+
+    <title>{% if hasTitle == "true" %}{{ title }} - {% endif %}Better Mathematics</title>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/static/css/stylesheet.css?time='{{ site.time }}'">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+</head>

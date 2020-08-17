@@ -1,0 +1,235 @@
+---
+title: Coursework Calculator
+layout: page
+---
+
+<p>
+    <!-- I deliberately avoid saying "to pass" because there might be other reqs to pass -->
+    If you want to see how much you need in your exam to get 40% overall, first:
+    <ul>
+        <li>Select your course.</li>
+        <li>Click <button onclick="alert('not this one')">calculate me!</button> next to "Exam"</li>
+        <li>Fill in how much you got in your coursework (in x%).</li>
+        <li>Fill in <code>40</code> in the "Overall" field</li>
+        <!--
+        <li>???</li>
+        <li>PROFIT!</li>
+        -->
+        <li>The "Exam" field should now tell you how much you need in your exam to get 40% overall.</li>
+    </ul>
+</p>
+
+
+<h3>Calculator</h3>
+
+<p>
+    <strong>Select course:</strong>
+
+    {% assign courses = site.data.courses.list %}
+    <select id="course-list">
+        <option disabled selected>(select a course)</option>
+        {% for course in courses %}
+            <option data-acronym="{{ course[0] }}" value="{{ course[0] }}"
+                {% unless course[1].cw_exam_ratio %}
+                    disabled="disabled"
+                {% endunless %}
+            >{{ course[0] }}: {{ course[1].name }}</option>
+        {% endfor %}
+    </select>
+    <a href="#" id="course-descriptor" style="display: none">drps</a>
+
+    <br><br>
+
+    <p id="ccalc-error" style="color: red; font-weight: bold;"></p>
+    <strong>Weighting</strong> (select course above to fill this in)
+    <ul>
+        <li>
+            <strong>Coursework: </strong>
+            <input data-cw-w8="cw" id="cw-w8-cw" style="width: 2rem"></input>%
+        </li>
+        <li>
+            <strong>Exam: </strong>
+            <input data-cw-w8="exam" id="cw-w8-exam"  style="width: 2rem"></input>%
+        </li>
+    </ul>
+    <br>
+    <strong>Targets</strong> (lock one, fill other two)
+    <ul>
+        <li>
+            Exam:
+            <input data-cw-tar="exam" id="cw-tar-exam"></input>% <button data-cw-lock="exam" id="cw-lock-exam"></button>
+        </li>
+        <li>
+            Coursework:
+            <input data-cw-tar="cw" id="cw-tar-cw"></input>% <button data-cw-lock="cw" id="cw-lock-cw"></button>
+        </li>
+        <li>
+            Overall:
+            <input data-cw-tar="all" id="cw-tar-all" value="40"></input>% <button data-cw-lock="all" id="cw-lock-all"></button>
+        </li>
+    </ul>
+    <br>
+    <strong>Last updated from <a href="http://course.inf.ed.ac.uk">course.inf.ed.ac.uk</a>:</strong> {{ site.data.courses.last_update }}
+
+    <small style="display: block;">
+        Don't forget to visit drps to double check the cw/exam weighting and
+        check for any additional assessment info (such as a requirement to pass the exam)
+    </small>
+</p>
+
+<script>
+const courseData = {{ courses | jsonify }};
+const getEl = (type, target) => document.querySelector(`[data-cw-${type}="${target}"]`)
+
+function showCalculatorError(str) {
+    if (str === "") {
+        document.querySelector("#ccalc-error").innerText = "";
+        return;
+    }
+
+    document.querySelector('#ccalc-error').innerText = `Error: ${str}`
+}
+
+function updateCalculation() {
+    showCalculatorError('');
+
+    const toSolve = document.querySelector('[data-cw-tar="' + document.querySelector('[data-cw-lock][disabled]').dataset.cwLock + '"]')
+    console.log("Solving", toSolve.dataset.cwTar)
+    toSolve.value = ''
+
+
+    let overall = getEl('tar',  'all').value
+    let exam    = getEl('tar', 'exam').value
+    let cw      = getEl('tar',   'cw').value
+
+    let ratio_cw   = getEl('w8',   'cw').value
+    let ratio_exam = getEl('w8', 'exam').value
+
+
+    if ((overall != "") && (exam != "") && (cw != "")) {
+        showCalculatorError("Only fill two of three targets");
+        return;
+    }
+
+
+    // If at least 2 are empty
+    if (
+        ((overall == "") && (exam == "") && (cw == ""))
+        || ((overall == "") && (exam == "") && (cw != ""))
+        || ((overall != "") && (exam == "") && (cw == ""))
+        || ((overall == "") && (exam != "") && (cw == ""))
+    ) {
+        console.log("At least 2 are empty.")
+        return;
+    }
+
+    if (overall != "") {
+        overall = parseInt(overall);
+    }
+    if (exam != "") {
+        exam = parseInt(exam);
+    }
+    if (cw != "") {
+        cw = parseInt(cw);
+    }
+
+    ratio_cw   = parseInt(ratio_cw);
+    ratio_exam = parseInt(ratio_exam);
+
+    if (isNaN(ratio_cw) || isNaN(ratio_exam)) {
+        showCalculatorError("Invalid cw/exam weightings");
+        return;
+    }
+
+    if (isNaN(overall) || isNaN(exam) || isNaN(cw)) {
+        showCalculatorError("Numbers only please");
+        return;
+    }
+
+    ratio_cw /= 100;
+    ratio_exam /= 100;
+
+    const solveOverall = toSolve.dataset.cwTar === "all";
+    const solveExam    = toSolve.dataset.cwTar === "exam";
+    const solveCw      = toSolve.dataset.cwTar === "cw";
+
+    if (solveOverall) {
+        // overall = (cw * ratio_cw) + (exam * ratio_exam);
+        const result = (cw * ratio_cw) + (exam * ratio_exam);
+        getEl('tar', 'all').value = result
+        console.log("#cw-tar-all", result);
+    } else if (solveExam || solveCw) {
+        // exam = (overall - (cw * ratio_cw)) / ratio_exam
+        // cw = (overall - (exam * ratio_exam)) / ratio_cw
+        // obj = (overall - inner) / outer
+        const inner = solveExam ? (cw * ratio_cw) : (exam * ratio_exam);
+        const outer = solveExam ? ratio_exam : ratio_cw;
+        const result = (overall - inner) / outer;
+        getEl('tar', solveExam ? 'exam' : 'cw').value = result
+        console.log(obj, result);
+    } else {
+        showCalculatorError("I can't into math.")
+    }
+}
+
+const lockButtons = "#cw-lock-all, #cw-lock-cw, #cw-lock-exam"
+const targetInputs = lockButtons.replace(/lock/g, "tar");
+function handleLock() {
+    // Reset everything to normal
+    document.querySelectorAll('[data-cw-lock]').forEach(el => {
+        el.disabled  = false
+        el.innerText = 'calculate me!'
+    })
+    document.querySelectorAll('[data-cw-tar]').forEach(el => el.disabled = false)
+
+
+    const input = document.querySelector(`[data-cw-tar="${this.dataset.cwLock}"]`)
+    input.disabled = true
+    input.value    = ''
+
+    this.disabled = true
+    this.innerText = 'calculated!'
+
+    updateCalculation();
+}
+
+function changeCourse() {
+    const acronym = document.querySelector('#course-list').value
+
+    const course = courseData[acronym];
+    const courseEl = document.querySelector('#course-descriptor')
+    console.log('changed course')
+    if (!course) {
+        courseEl.style.display = 'none'
+
+        return;
+    }
+
+    courseEl.style.display = null;
+    courseEl.setAttribute('href', course.euclid_url)
+
+    if (course.cw_exam_ratio === null) {
+        showCalculatorError("course.inf.ed.ac.uk is missing a cw/exam ratio for this course");
+        return;
+    }
+
+    getEl('w8', 'cw').value = course.cw_exam_ratio[0]
+    getEl('w8', 'exam').value = course.cw_exam_ratio[1]
+
+    updateCalculation();
+}
+
+function loadCourseCalculator() {
+    document.querySelector('#course-list').addEventListener('change', changeCourse)
+
+    document.querySelectorAll('[data-cw-tar]').forEach(el => el.addEventListener('input', updateCalculation))
+    document.querySelectorAll('[data-cw-w8]' ).forEach(el => el.addEventListener('input', updateCalculation))
+    document.querySelectorAll('[data-cw-lock]').forEach(el => el.addEventListener('click', handleLock))
+
+
+    // fire handler to initially populate the locks
+    handleLock.bind(document.querySelector('[data-cw-lock]'))()
+}
+
+window.addEventListener('load', loadCourseCalculator)
+</script>

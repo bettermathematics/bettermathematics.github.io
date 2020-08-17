@@ -1,0 +1,57 @@
+---
+layout: default
+---
+{% include nav.html %}
+
+<div style="margin: 10px; display: flex; justify-content: center">
+<!--small style="text-align: center; padding: 10px; background-color: rgba(200, 200, 200, 0.2); border-radius: 10px; margin-bottom: 10px; margin-top: 10px;">
+    <a href="https://exams.is.ed.ac.uk/">Resit timetable is out!</a>
+    <strong style="color:red">Interactivity down due to power outage in Edinburgh.</strong> Existing users can access the Drive from drive.google.com.
+    >
+</small-->
+</div>
+
+{% if page.year and page.year != "start" %}
+    <a id="sem1-btn" data-sem="1"  class="btn">view semester 1</a>
+    <a id="sem2-btn" data-sem="2"  class="btn">view semester 2</a>
+    <a id="all-btn" data-sem="all" class="btn">view all</a>
+{% endif %}
+
+{% include other-courses.html %}
+
+{{ content }}
+
+{% assign len =  page.path.size | minus: 3 | minus: 7 %}
+{% assign name = page.path | slice: 7, len %}
+
+{% if site.data.settings.examSeason and page.year and page.year != "start" %}
+<section id="exams">
+    <h3>
+        <span>
+            Exams
+            <small>
+                | <a href="https://exams.is.ed.ac.uk">official list</a>    
+            </small>
+        </span>
+    </h3>
+    {% include exams.html %}
+</section>
+{% endif %}
+
+<!-- First show pinned sections -->
+
+{% assign sections = site.sections | where: "year", page.year | where: "pinned", true | sort: "title" %}
+{% if page.show-archived == false %}
+{% assign sections = sections | where: "archived", "false" %}
+{% endif %}
+
+{{ sections }}
+
+<!-- Then show non-pinned sections -->
+
+{% assign sections = site.sections | where: "year", page.year | where: "pinned", false | sort: "title" %}
+{% if page.show-archived == false %}
+{% assign sections = sections | where: "archived", "false" %}
+{% endif %}
+
+{{ sections }}

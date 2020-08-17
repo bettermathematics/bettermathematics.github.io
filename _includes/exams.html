@@ -1,0 +1,147 @@
+<div id='get-exam-timetable'>
+    <a href="#" class="btn">loading exams inline...</a>
+</div>
+<div id='exam-timetable-table' style="display:none">
+
+    Click on title/venue/date to expand.
+    <table style="width: 100%;">
+        <thead>
+            <tr>
+                <th>Exam</th>
+                <th>Venue</th>
+                <th>Date</th>
+                <!-- <th></th>
+                <th></th> -->
+            </tr>
+        </thead>
+
+        <tbody>
+            <!-- <tr>
+                <td>name</td>
+                <td>location</td>
+                <td>date</td>
+                <td class="examTime" data-time="time"></td>
+                <td><button onclick="searchExam('code')">View</button></td>
+            </tr> -->
+        </tbody>
+    </table>
+</div>
+
+<style>
+#exam-timetable-table > table > tbody > tr > td {
+	cursor: pointer;
+}
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.16.0/moment.min.js"></script>
+<script>
+    const courses = JSON.parse(`{{ site.data.courses | jsonify }}`);
+    // const pageCourses = ` site.sections | where: "year", page.year | where: "archived", false | jsonify `
+    // console.log(pageCourses)
+    const year = parseInt(`{{ page.year }}`);
+
+    const fail = () => {document.querySelector("#get-exam-timetable > a").innerText = "something broke, sorry"}
+    const success = (data) => {
+        const el = document.querySelector("#get-exam-timetable > a")
+        el.innerText = "view exams"
+        el.addEventListener('click', () => {
+            showExamTimetable(data.data);
+            document.querySelector('#get-exam-timetable').remove();
+            return false;
+        });
+    }
+
+    const readVenue = venues => {
+        let s = '';
+        venues.forEach(v => {
+            const loc = v.location.replace("Edinburgh International Conference Centre", "EICC")
+            s += loc + ', ';
+        })
+        return s.slice(0, -2);
+    }
+    const showExamTimetable = exams => {
+        exams.forEach(exam => {
+            if (exam.venues.length != 1) {
+                console.log(exam);
+            }
+        })
+        // console.log(exams)
+        const ourCourses = [];
+        Object.keys(courses.list).forEach(function(key) {
+            const course = courses.list[key];
+            if (course.year == year) {
+                ourCourses[course.euclid_code] = course.acronym;
+            }
+        });
+
+        const results = [];
+        exams.forEach(exam => {
+            exam.code = exam.title.split(" ")[0];
+            const acronym = ourCourses[exam.code];
+            // console.log(code);
+            if (acronym) {
+                const course = courses.list[acronym];
+                exam.acronym = acronym;
+                exam.venue = readVenue(exam.venues);
+                exam.title = exam.title.slice(exam.code.length + 3);
+                exam.date = "date";
+                console.log("Title", exam.title)
+                const timeText = exam.start_date + ' ' + exam.start_time.replace(" a.m.", "am").replace(" p.m.", "pm");
+                const time = moment(timeText, "dddd, Do MMMM YYYY hh:mma");
+                if (moment().isAfter(time)) {
+                    exam.time = "done!";
+                    return;
+                }
+                exam.timeRel = time.fromNow(true);
+                exam.timeAbs = timeText;
+                exam.time = moment.unix(time);
+
+                results.push(exam);
+            }
+        })
+
+        // console.log(results)
+        results.sort((a, b) => {return a.time > b.time ? 1 : -1});
+        // console.log(results)
+
+        const table = document.querySelector("#exam-timetable-table");
+        const body = table.querySelector('tbody');
+        body.innerHTML = ''
+
+        const clickyText = (t, a, b) => {
+            t.addEventListener('click', () => {t.innerText = (t.innerText === b ? a : b)})
+            t.innerText = b
+        }
+
+        results.forEach(exam => {
+            const t = document.createElement('td')
+            clickyText(t, exam.title, exam.acronym);
+            
+            let shortVenue = exam.venue.slice(0, 80)
+            if (shortVenue !== exam.venue) {
+                shortVenue + '...';
+            }
+            const v = document.createElement('td')
+            clickyText(v, exam.venue, shortVenue);
+            
+            const d = document.createElement('td')
+            clickyText(d, exam.timeAbs, exam.timeRel);
+
+            const tr = document.createElement('tr')
+            tr.appendChild(t);
+            tr.appendChild(v);
+            tr.appendChild(d);
+
+            body.appendChild(tr);
+        })
+
+        table.style.display = 'block'
+    }
+
+    window.addEventListener('load', () => {
+        fetch('https://betterinformatics.com/search/')
+            .then(r => r.json())
+            .then(r => success(r))
+            .catch(() => fail())
+    })
+</script>

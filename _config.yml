@@ -1,0 +1,33 @@
+description: Welcome to Better Maths. The student run website for students in the School of Mathematics.
+
+sass:
+   sourcemap: true
+
+url: "https://betterinformatics.com" # update previous line
+domain: "betterinformatics.com" # update next line
+baseurl: "" # does not include hostname
+
+collections:
+    sections:
+    pages:
+        output: true
+        permalink: "/:path"
+
+defaults:
+    - scope:
+        path: ""
+        type: "sections"
+      values:
+        pinned: false # by default, not pinned
+        semester: 100 # "Other" stuff is pushed to the end
+        archived: false
+        course-acronym: ""
+        layout: "section"
+        learn: true
+
+    - scope:
+        path: "" # an empty string here means all files in the project
+        type: "pages"
+      values:
+        layout: "frontpage"
+        show-archived: false

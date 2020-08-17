@@ -1,0 +1,71 @@
+---
+---
+<!doctype html>
+<html lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+
+    {% include head.html %}
+
+    <body id="top">
+        <a href="{{ site.baseurl }}/">
+            <div id="title-small" class="hide-on-big">
+                <h1>Better Mathematics {% if hasTitle == "true" %} - {{ page.title }} {% endif %}</h1>
+            </div>
+
+
+            <div id="title" class="ir hide-on-small">
+                <h1>Better Mathematics</h1>
+            </div>
+        </a>
+
+        <div id="content">
+            {{ content }}
+
+            <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-top: 4em;">
+                <a href="mailto:admin@betterinformatics.com">Send feedback</a>
+            </div>
+        </div>
+
+        {% if page.layout == "frontpage" %}
+            <script type="text/javascript">
+                window.addEventListener('load', () => {
+                    // If a course is provided, show everything
+                    if (window.location.hash) {
+                        //$("[data-semester]").show();
+                        document.querySelectorAll('[data-semester]').forEach(e => e.style.display = 'block')
+                        //$(location.hash).find("h3").css("background-color", "rgba(255, 255, 0, 0.2)")
+                        document.querySelector(location.hash)
+                            .querySelector('h3')
+                            .style.backgroundColor = 'rgba(255,255,0,0.2)'
+                    }
+
+
+                    document.querySelectorAll('[data-sem]').forEach(el => {
+                        el.addEventListener('click', btn => {
+                            document.querySelectorAll('[data-semester]').forEach(e => e.style.display = 'block')
+
+
+                            if (el.dataset.sem == '1') {
+                                document.querySelectorAll('[data-semester="2"]').forEach(e => e.style.display = 'none')
+                            } else if (el.dataset.sem == '2') {
+                                document.querySelectorAll('[data-semester="1"]').forEach(e => e.style.display = 'none')
+                            }
+                        })
+                    })
+                })
+            </script>
+        {% endif %}
+
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110956746-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-110956746-1');
+        </script>
+
+    </body>
+</html>
