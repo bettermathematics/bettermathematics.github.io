@@ -1,1823 +1,1593 @@
-# This document was automatically generated
-# using data from http://course.inf.ed.ac.uk
-#
-# Last update: 01/05/2020 07:45:01
+# Last update: 24/08/2020 23:48
 
-last_update: 01/05/2020 07:45:01
+last_update: 24/08/2020 23:48:28
+
 list:
-  adbs:
-    acronym: ADBS
-    credits: 10
+  d_cam:
+    acronym: D_CAM
+    credits: 60
     cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11011
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11011.htm
-    level: 11
-    name: Advanced Databases
-    year: 4
-  ads:
-    acronym: ADS
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR10052
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10052.htm
-    level: 10
-    name: Algorithms and Data Structures
-    year: 3
-  afds:
-    acronym: AFDS
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11156
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11156.htm
-    level: 11
-    name: Algorithmic Foundations of Data Science
-    year: 4
-  agta:
-    acronym: AGTA
-    credits: 10
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11020
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11020.htm
-    level: 11
-    name: Algorithmic Game Theory and its Applications
-    year: 4
-  aipf:
-    acronym: AIPF
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11180
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11180.htm
-    level: 11
-    name: Artificial Intelligence, Present and Future
-    year: 5
-  anlp:
-    acronym: ANLP
-    credits: 20
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11125
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11125.htm
-    level: 11
-    name: Accelerated Natural Language Processing
-    year: 5
-  ar:
-    acronym: AR
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May; April/May
-    euclid_code: INFR09042
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr09042.htm
-    level: 9
-    name: Automated Reasoning
-    year: 3
-  asr:
-    acronym: ASR
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11033
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11033.htm
-    level: 11
-    name: Automatic Speech Recognition
-    year: 4
-  atfd:
-    acronym: ATFD
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11122
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11122.htm
-    level: 11
-    name: Advanced Topics in Foundations of Databases
-    year: 5
-  av-dl:
-    acronym: AV-DL
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFD11002
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11002.htm
-    level: 11
-    name: Advanced Vision (Distance Learning)
-    year: 5
-  bai-gp:
-    acronym: BAI-GP
-    credits: 40
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11196
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11196.htm
-    level: 11
-    name: Group Research Project (Biomedical AI)
-    year: 5
-  bai-icdm:
-    acronym: BAI-ICDM
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11195
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11195.htm
-    level: 11
-    name: Issues in Clinical Data Modelling
-    year: 5
-  bai-ip:
-    acronym: BAI-IP
-    credits: 80
-    cw_exam_ratio:
-    - 100
-    - 0
+      - 100
+      - 0
     delivery: B5+
     delivery_ordinal: 4
     diet: ''
-    euclid_code: INFR11197
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11197.htm
+    euclid_code: MATH11195
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11195.htm
     level: 11
-    name: Individual Research Project (Biomedical AI)
+    name: Dissertation (CAM)
     year: 5
-  bdl:
-    acronym: BDL
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May; April/May
-    euclid_code: INFR11144
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11144.htm
-    level: 11
-    name: Blockchains and Distributed Ledgers
-    year: 4
-  bio1:
-    acronym: BIO1
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11160
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11160.htm
-    level: 11
-    name: Bioinformatics 1
-    year: 4
-  bio2:
-    acronym: BIO2
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11005
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11005.htm
-    level: 11
-    name: Bioinformatics 2
-    year: 5
-  card:
-    acronym: CARD
-    credits: 20
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR10076
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10076.htm
-    level: 10
-    name: Computer Architecture and Design
-    year: 3
-  cav:
-    acronym: CAV
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11067
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11067.htm
-    level: 11
-    name: Computer Animation & Visualisation
-    year: 4
-  ccn:
-    acronym: CCN
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11036
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11036.htm
-    level: 11
-    name: Computational Cognitive Neuroscience
-    year: 5
-  ccs:
-    acronym: CCS
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May; April/May
-    euclid_code: INFR10054
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10054.htm
-    level: 10
-    name: Computational Cognitive Science
-    year: 3
-  cdi1:
-    acronym: CDI1
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11094
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11094.htm
-    level: 11
-    name: Case Studies in Design Informatics 1
-    year: 5
-  cdi2:
-    acronym: CDI2
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11095
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11095.htm
-    level: 11
-    name: Case Studies in Design Informatics 2
-    year: 5
-  cg:
-    acronym: CG
-    credits: 10
-    cw_exam_ratio: null
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May
-    euclid_code: INFR11021
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11021.htm
-    level: 11
-    name: Computer Graphics
-    year: 4
-  cic:
-    acronym: CiC
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR10077
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10077.htm
-    level: 10
-    name: Computing in the Classroom
-    year: 4
-  cmc:
-    acronym: CMC
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11102
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11102.htm
-    level: 11
-    name: Computational Complexity
-    year: 4
-  comn:
-    acronym: COMN
-    credits: 20
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR10074
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10074.htm
-    level: 10
-    name: Computer Communications and Networks
-    year: 3
-  cqi:
-    acronym: CQI
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11128
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11128.htm
-    level: 11
-    name: Categories and Quantum Informatics
-    year: 5
-  cs:
-    acronym: CS
-    credits: 20
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR10067
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10067.htm
-    level: 10
-    name: Computer Security
-    year: 3
-  ct:
-    acronym: CT
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR10065
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10065.htm
-    level: 10
-    name: Compiling Techniques
-    year: 3
-  datavis:
-    acronym: DATAVIS
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11190
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11190.htm
-    level: 11
-    name: Data Visualisation
-    year: 5
-  dbs:
-    acronym: DBS
-    credits: 20
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December; December
-    euclid_code: INFR10070
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10070.htm
-    level: 10
-    name: Database Systems
-    year: 3
-  diss:
-    acronym: DISS
+
+  d_cmf:
+    acronym: D_CMF
     credits: 60
     cw_exam_ratio:
-    - 100
-    - 0
+      - 100
+      - 0
     delivery: B5+
     delivery_ordinal: 4
     diet: ''
-    euclid_code: INFR11077
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11077.htm
+    euclid_code: MATH11200
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11200.htm
     level: 11
-    name: MSc Dissertation (Informatics)
+    name: Dissertation (CMF)
     year: 5
-  dme:
-    acronym: DME
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11007
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11007.htm
-    level: 11
-    name: Data Mining and Exploration
-    year: 5
-  dmmr:
-    acronym: DMMR
-    credits: 20
-    cw_exam_ratio:
-    - 15
-    - 85
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR08023
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08023.htm
-    level: 8
-    name: Discrete Mathematics and Mathematical Reasoning
-    year: 2
-  dmr:
-    acronym: DMR
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11090
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11090.htm
-    level: 11
-    name: Decision Making in Robots and Autonomous Agents
-    year: 5
-  ds:
-    acronym: DS
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11022
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11022.htm
-    level: 11
-    name: Distributed Systems
-    year: 4
-  dsti-diss-dl:
-    acronym: DSTI-DISS-DL
+
+  d_fmo:
+    acronym: D_FMO
     credits: 60
     cw_exam_ratio:
-    - 100
-    - 0
-    delivery: FLEX
-    delivery_ordinal: 4
-    diet: ''
-    euclid_code: INFD11003
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11003.htm
-    level: 11
-    name: Data Science, Technology and Innovation Dissertation (Distance Learning)
-    year: 5
-  epcc/01:
-    acronym: EPCC/01
-    credits: 10
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11169
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11169.htm
-    level: 11
-    name: Advanced Message-passing Programming
-    year: 5
-  epcc/02:
-    acronym: EPCC/02
-    credits: 10
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11170
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11170.htm
-    level: 11
-    name: Advanced Parallel Techniques
-    year: 5
-  epcc/03:
-    acronym: EPCC/03
-    credits: 10
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11171
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11171.htm
-    level: 11
-    name: Data Analytics with High Performance Computing
-    year: 5
-  epcc/04:
-    acronym: EPCC/04
-    credits: 10
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11179
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11179.htm
-    level: 11
-    name: Design and Analysis of Parallel Algorithms
-    year: 5
-  epcc/06:
-    acronym: EPCC/06
-    credits: 60
-    cw_exam_ratio:
-    - 92
-    - 8
+      - 100
+      - 0
     delivery: B5+
     delivery_ordinal: 4
     diet: ''
-    euclid_code: INFR11164
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11164.htm
+    euclid_code: MATH11080
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11080.htm
     level: 11
-    name: Dissertation (HPC with Data Science)
+    name: Dissertation (FMO)
     year: 5
-  epcc/07:
-    acronym: EPCC/07
+
+  d_or:
+    acronym: D_OR
     credits: 60
     cw_exam_ratio:
-    - 92
-    - 8
+      - 100
+      - 0
     delivery: B5+
     delivery_ordinal: 4
     diet: ''
-    euclid_code: INFR11166
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11166.htm
+    euclid_code: MATH11043
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11043.htm
     level: 11
-    name: Dissertation (High Performance Computing)
+    name: Dissertation (Op. Res.)
     year: 5
-  epcc/08:
-    acronym: EPCC/08
-    credits: 10
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11176
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11176.htm
-    level: 11
-    name: Fundamentals of Data Management
-    year: 5
-  epcc/09:
-    acronym: EPCC/09
-    credits: 10
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11175
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11175.htm
-    level: 11
-    name: HPC Architectures
-    year: 5
-  epcc/10:
-    acronym: EPCC/10
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11163
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11163.htm
-    level: 11
-    name: Message-passing Programming
-    year: 5
-  epcc/11:
-    acronym: EPCC/11
-    credits: 10
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11174
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11174.htm
-    level: 11
-    name: Numerical Algorithms for High Performance Computing
-    year: 5
-  epcc/12:
-    acronym: EPCC/12
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11168
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11168.htm
-    level: 11
-    name: Parallel Design Patterns
-    year: 5
-  epcc/13:
-    acronym: EPCC/13
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11167
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11167.htm
-    level: 11
-    name: Performance Programming
-    year: 5
-  epcc/14:
-    acronym: EPCC/14
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11183
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11183.htm
-    level: 11
-    name: Practical Introduction to Data Science (Distance Learning)
-    year: 5
-  epcc/15:
-    acronym: EPCC/15
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11184
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11184.htm
-    level: 11
-    name: Practical Introduction to High Performance Computing (Distance Learning)
-    year: 5
-  epcc/16:
-    acronym: EPCC/16
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11177
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11177.htm
-    level: 11
-    name: Programming Skills
-    year: 5
-  epcc/17:
-    acronym: EPCC/17
-    credits: 10
-    cw_exam_ratio:
-    - 90
-    - 10
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR11173
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11173.htm
-    level: 11
-    name: Project Preparation
-    year: 5
-  epcc/18:
-    acronym: EPCC/18
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11172
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11172.htm
-    level: 11
-    name: Software Development
-    year: 5
-  epcc/19:
-    acronym: EPCC/19
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11178
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11178.htm
-    level: 11
-    name: Threaded Programming
-    year: 5
-  exc:
-    acronym: EXC
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December; December
-    euclid_code: INFR11088
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11088.htm
-    level: 11
-    name: Extreme Computing
-    year: 4
-  fnlp:
-    acronym: FNLP
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR09028
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr09028.htm
-    level: 9
-    name: Foundations of Natural Language Processing
-    year: 3
-  fv:
-    acronym: FV
-    credits: 10
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11129
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11129.htm
-    level: 11
-    name: Formal Verification
-    year: 4
-  hci:
-    acronym: HCI
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11017
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11017.htm
-    level: 11
-    name: Human-Computer Interaction
-    year: 4
-  iaml:
-    acronym: IAML
-    credits: 20
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December; December; December; December
-    euclid_code: INFR10069
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10069.htm
-    level: 10
-    name: Introductory Applied Machine Learning
-    year: 3
-  iaml-dl:
-    acronym: IAML-DL
-    credits: 20
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May; April/May
-    euclid_code: INFD11005
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11005.htm
-    level: 11
-    name: Introductory Applied Machine Learning (Distance Learning)
-    year: 5
-  iaml-pg2:
-    acronym: IAML-PG2
-    credits: 20
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11182
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11182.htm
-    level: 11
-    name: Introductory Applied Machine Learning
-    year: 5
-  ilp:
-    acronym: ILP
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR09051
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr09051.htm
-    level: 9
-    name: Informatics Large Practical
-    year: 3
-  imc:
-    acronym: IMC
-    credits: 10
-    cw_exam_ratio:
-    - 10
-    - 90
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11131
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11131.htm
-    level: 11
-    name: Introduction to Modern Cryptography
-    year: 4
-  inf1-cg:
-    acronym: INF1-CG
-    credits: 20
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR08020
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08020.htm
-    level: 8
-    name: Informatics 1 - Cognitive Science
-    year: 1
-  inf1a:
-    acronym: INF1A
-    credits: 20
-    cw_exam_ratio:
-    - 5
-    - 95
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR08025
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08025.htm
-    level: 8
-    name: Informatics 1 - Introduction to Computation
-    year: 1
-  inf1b:
-    acronym: INF1B
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR08029
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08029.htm
-    level: 8
-    name: Informatics 1 - Object Oriented Programming
-    year: 1
-  inf2-iads:
-    acronym: INF2-IADS
-    credits: 20
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: YR
-    delivery_ordinal: 3
-    diet: April/May
-    euclid_code: INFR08026
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08026.htm
-    level: 8
-    name: Informatics 2 - Introduction to Algorithms and Data Structures
-    year: 2
-  inf2b:
-    acronym: INF2B
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR08028
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08028.htm
-    level: 8
-    name: Informatics 2B - Learning
-    year: 2
-  inf2c-cs:
-    acronym: INF2C-CS
-    credits: 20
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR08027
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08027.htm
-    level: 8
-    name: Informatics 2C - Introduction to Computer Systems
-    year: 2
-  inf2c-se:
-    acronym: INF2C-SE
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR08019
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08019.htm
-    level: 8
-    name: Informatics 2C - Introduction to Software Engineering
-    year: 2
-  inf2d:
-    acronym: INF2D
-    credits: 20
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR08010
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr08010.htm
-    level: 8
-    name: Informatics 2D - Reasoning and Agents
-    year: 2
-  infd11006/ss1/sem1:
-    acronym: INFD11006/SS1/SEM1
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFD11006
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11006.htm
-    level: 11
-    name: Introduction to Vision and Robotics (Distance Learning)
-    year: 5
-  infd11009/sv1/yr:
-    acronym: INFD11009/SV1/YR
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFD11009
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11009.htm
-    level: 11
-    name: Practical Introduction to High Performance Computing (Distance Learning)
-    year: 5
-  infd11010/sv1/yr:
-    acronym: INFD11010/SV1/YR
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFD11010
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11010.htm
-    level: 11
-    name: Practical Introduction to Data Science (Distance Learning)
-    year: 5
-  infd11011/sv1/sem2:
-    acronym: INFD11011/SV1/SEM2
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11011
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11011.htm
-    level: 11
-    name: Message Passing Programming (Distance Learning)
-    year: 5
-  infd11012/sv1/sem2:
-    acronym: INFD11012/SV1/SEM2
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11012
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11012.htm
-    level: 11
-    name: Threaded Programming (Distance Learning)
-    year: 5
-  infd11013/ss1/yr:
-    acronym: INFD11013/SS1/YR
+
+  dsds:
+    acronym: DSDS
     credits: 60
     cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFD11013
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11013.htm
-    level: 11
-    name: Dissertation (DSTI - EPCC) (Distance Learning)
-    year: 5
-  infd11014/ss1/sem2:
-    acronym: INFD11014/SS1/SEM2
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFD11014
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11014.htm
-    level: 11
-    name: Informatics Project Proposal (Distance Learning)
-    year: 5
-  infd11015/ss1/flex:
-    acronym: INFD11015/SS1/FLEX
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: FLEX
-    delivery_ordinal: 4
-    diet: ''
-    euclid_code: INFD11015
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11015.htm
-    level: 11
-    name: Practical Introduction to Data Science (short course) (Distance Learning)
-    year: 5
-  infr11114/sv1/sem1:
-    acronym: INFR11114/SV1/SEM1
-    credits: 10
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December; December
-    euclid_code: INFR11114
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11114.htm
-    level: 11
-    name: Types and Semantics for Programming Languages
-    year: 4
-  iotssc:
-    acronym: IoTSSC
-    credits: 20
-    cw_exam_ratio:
-    - 55
-    - 45
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11146
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11146.htm
-    level: 11
-    name: Internet of Things Systems, Security, and the Cloud (IoTSSC)
-    year: 4
-  ipp:
-    acronym: IPP
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11147
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11147.htm
-    level: 11
-    name: Informatics Project Proposal
-    year: 5
-  ippo:
-    acronym: IPPO
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11189
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11189.htm
-    level: 11
-    name: Introduction to Practical Programming with Objects
-    year: 5
-  ippo-dl:
-    acronym: IPPO-DL
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFD11001
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11001.htm
-    level: 11
-    name: Introduction to Practical Programming with Objects (Distance Learning)
-    year: 5
-  iqc:
-    acronym: IQC
-    credits: 10
-    cw_exam_ratio:
-    - 10
-    - 90
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May; April/May
-    euclid_code: INFR11099
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11099.htm
-    level: 11
-    name: Introduction to Quantum Computing
-    year: 4
-  irr:
-    acronym: IRR
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11136
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11136.htm
-    level: 11
-    name: Informatics Research Review
-    year: 5
-  itcs:
-    acronym: ITCS
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR10059
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10059.htm
-    level: 10
-    name: Introduction to Theoretical Computer Science
-    year: 3
-  ivc:
-    acronym: IVC
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11140
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11140.htm
-    level: 11
-    name: Image and Vision Computing
-    year: 5
-  ivr:
-    acronym: IVR
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR09019
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr09019.htm
-    level: 9
-    name: Introduction to Vision and Robotics
-    year: 3
-  mdi:
-    acronym: MDI
-    credits: 60
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: FLEX
-    delivery_ordinal: 4
-    diet: ''
-    euclid_code: INFR11097
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11097.htm
-    level: 11
-    name: Masters Dissertation (Design Informatics)
-    year: 5
-  mi:
-    acronym: MI
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11079
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11079.htm
-    level: 11
-    name: Music Informatics
-    year: 5
-  mip1:
-    acronym: MIP1
-    credits: 40
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: FLEX
-    delivery_ordinal: 4
-    diet: ''
-    euclid_code: INFR10051
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10051.htm
-    level: 10
-    name: MInf Project (Part 1)
-    year: 4
-  mip2:
-    acronym: MIP2
-    credits: 40
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: FLEX
-    delivery_ordinal: 4
-    diet: ''
-    euclid_code: INFR11093
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11093.htm
-    level: 11
-    name: MInf Project (Part 2)
-    year: 5
-  mlp:
-    acronym: MLP
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR11132
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11132.htm
-    level: 11
-    name: Machine Learning Practical
-    year: 4
-  mlpr:
-    acronym: MLPR
-    credits: 20
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December; December
-    euclid_code: INFR11130
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11130.htm
-    level: 11
-    name: Machine Learning and Pattern Recognition
-    year: 4
-  nat:
-    acronym: NAT
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11161
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11161.htm
-    level: 11
-    name: Natural Computing
-    year: 4
-  nat-dl:
-    acronym: NAT-DL
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFD11007
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11007.htm
-    level: 11
-    name: Natural Computing (Distance Learning)
-    year: 5
-  nc:
-    acronym: NC
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11162
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11162.htm
-    level: 11
-    name: Neural Computation
-    year: 4
-  nlp-dr:
-    acronym: NLP-DR
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR11194
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11194.htm
-    level: 11
-    name: Doing Research in Natural Language Processing
-    year: 5
-  nlp-gp:
-    acronym: NLP-GP
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S1
-    delivery_ordinal: 1
-    diet: ''
-    euclid_code: INFR11193
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11193.htm
-    level: 11
-    name: Group Project in Advanced Natural Language Processing
-    year: 5
-  nlp-ip:
-    acronym: NLP-IP
-    credits: 40
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR11192
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11192.htm
-    level: 11
-    name: Individual Project in Advanced Natural Language Processing
-    year: 5
-  nlu+:
-    acronym: NLU+
-    credits: 20
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11157
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11157.htm
-    level: 11
-    name: Natural Language Understanding, Generation, and Machine Translation
-    year: 4
-  os:
-    acronym: OS
-    credits: 20
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR09047
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr09047.htm
-    level: 9
-    name: Operating Systems
-    year: 3
-  pa:
-    acronym: PA
-    credits: 10
-    cw_exam_ratio: null
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11024
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11024.htm
-    level: 11
-    name: Parallel Architectures
-    year: 4
-  pdiot:
-    acronym: PDIoT
-    credits: 20
-    cw_exam_ratio:
-    - 70
-    - 30
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May
-    euclid_code: INFR11150
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11150.htm
-    level: 11
-    name: Principles and Design of IoT Systems
-    year: 4
-  pi:
-    acronym: PI
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR10022
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10022.htm
-    level: 10
-    name: Professional Issues
-    year: 3
-  pm:
-    acronym: PM
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December; December
-    euclid_code: INFR11082
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11082.htm
-    level: 11
-    name: Performance Modelling
-    year: 4
-  pm-dl:
-    acronym: PM-DL
-    credits: 10
-    cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFD11008
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfd11008.htm
-    level: 11
-    name: Performance Modelling (Distance Learning)
-    year: 4
-  pmr:
-    acronym: PMR
-    credits: 20
-    cw_exam_ratio:
-    - 0
-    - 100
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11134
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11134.htm
-    level: 11
-    name: Probabilistic Modelling and Reasoning
-    year: 5
-  proj:
-    acronym: PROJ
-    credits: 40
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR10044
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10044.htm
-    level: 10
-    name: Honours Project (Informatics)
-    year: 4
-  qcs:
-    acronym: QCS
-    credits: 10
-    cw_exam_ratio:
-    - 10
-    - 90
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11187
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11187.htm
-    level: 11
-    name: Quantum Cyber Security
-    year: 4
-  rc:
-    acronym: RC
-    credits: 10
-    cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11089
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11089.htm
-    level: 11
-    name: Randomness and Computation
-    year: 4
-  rl:
-    acronym: RL
-    credits: 10
-    cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11010
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11010.htm
-    level: 11
-    name: Reinforcement Learning
-    year: 5
-  rlsc:
-    acronym: RLSC
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11186
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11186.htm
-    level: 11
-    name: Robot Learning and Sensorimotor Control
-    year: 5
-  rss:
-    acronym: RSS
-    credits: 20
-    cw_exam_ratio:
-    - 26
-    - 74
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11092
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11092.htm
-    level: 11
-    name: 'Robotics: Science and Systems'
-    year: 5
-  rtds:
-    acronym: RTDS
-    credits: 90
-    cw_exam_ratio:
-    - 100
-    - 0
+      - 100
+      - 0
     delivery: B5+
     delivery_ordinal: 4
     diet: ''
-    euclid_code: INFR11106
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11106.htm
+    euclid_code: MATH11178
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11178.htm
     level: 11
-    name: MSc by Research Thesis (Data Science)
+    name: Dissertation (SDS)
     year: 5
-  rtds+:
-    acronym: RTDS+
-    credits: 120
+
+  d_sor:
+    acronym: D_SOR
+    credits: 60
     cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
+      - 100
+      - 0
+    delivery: B5+
+    delivery_ordinal: 4
     diet: ''
-    euclid_code: INFR11107
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11107.htm
+    euclid_code: MATH11119
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11119.htm
     level: 11
-    name: MSc by Research Thesis (Data Science; 120pt)
+    name: Dissertation (Stats. Op. Res.)
     year: 5
-  rtpp:
-    acronym: RTPP
-    credits: 140
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: ''
-    euclid_code: INFR11109
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11109.htm
-    level: 11
-    name: MSc by Research Thesis (Pervasive Parallelism)
-    year: 5
-  sapm:
-    acronym: SAPM
+
+  rlt:
+    acronym: RLT
     credits: 10
     cw_exam_ratio:
-    - 25
-    - 75
-    delivery: S2
-    delivery_ordinal: 2
-    diet: April/May
-    euclid_code: INFR11038
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11038.htm
+      - 100
+      - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: MATH11151
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11151.htm
     level: 11
-    name: Software Architecture, Process, and Management
-    year: 4
-  sdm:
-    acronym: SDM
+    name: Research-Linked Topics
+    year: 5
+
+  rscam:
+    acronym: RSCAM
     credits: 20
     cw_exam_ratio:
-    - 50
-    - 50
+      - 100
+      - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: MATH11197
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11197.htm
+    level: 11
+    name: Research Skills for Computational Applied Mathematics
+    year: 5
+
+  bth:
+    acronym: BTh
+    credits: 10
+    cw_exam_ratio:
+      - 25
+      - 75
     delivery: S1
     delivery_ordinal: 1
-    diet: December; December
-    euclid_code: INFR10064
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10064.htm
-    level: 10
-    name: Software Design and Modelling
-    year: 3
-  sdp:
-    acronym: SDP
+    diet: December
+    euclid_code: MATH11177
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11177.htm
+    level: 11
+    name: Bayesian Theory
+    year: 5
+
+  dtf:
+    acronym: DTF
+    credits: 10
+    cw_exam_ratio:
+      - 5
+      - 95
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH11153
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11153.htm
+    level: 11
+    name: Discrete-Time Finance
+    year: 5
+
+  fru:
+    acronym: FRU
+    credits: 10
+    cw_exam_ratio:
+      - 30
+      - 70
+    delivery: S1
+    delivery_ordinal: 1
+    diet: April/May
+    euclid_code: MATH11088
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11088.htm
+    level: 11
+    name: Finance, Risk and Uncertainty
+    year: 5
+
+  fuo:
+    acronym: FuO
+    credits: 10
+    cw_exam_ratio:
+      - 40
+      - 60
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH11111
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11111.htm
+    level: 11
+    name: Fundamentals of Optimization
+    year: 5
+
+  idan:
+    acronym: IDAn
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH11185
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11185.htm
+    level: 11
+    name: Incomplete Data Analysis
+    year: 5
+
+  mmcs:
+    acronym: MMCS
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    dite: ''
+    euclid_code: MATH11007
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11007.htm
+    level: 11
+    name: Methodology, Modelling and Consulting Skills
+    year: 5
+
+  mrc1:
+    acronym: MRC1
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH11114
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11114.htm
+    level: 11
+    name: Mathematics Reading Course - S1
+    year: 5
+
+  ppr:
+    acronym: PPr
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH11199
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11199.htm
+    level: 11
+    name: Python Programming
+    year: 5
+
+  ips:
+    acronym: IPS
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH11203
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11203.htm
+    level: 11
+    name: Introductory Probability and Statistics
+    year: 5
+
+  saf:
+    acronym: SAF
     credits: 20
     cw_exam_ratio:
-    - 100
-    - 0
-    delivery: S2
-    delivery_ordinal: 2
-    diet: ''
-    euclid_code: INFR09032
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr09032.htm
-    level: 9
-    name: System Design Project
-    year: 3
+      - 10
+      - 90
+    delivery: S1
+    delivery_ordinal: 1
+    diet: April/May
+    euclid_code: MATH11154
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11154.htm
+    level: 11
+    name: Stochastic Analysis in Finance
+    year: 5
+
+  sm_or:
+    acronym: SM_OR
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH11029
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11029.htm
+    level: 11
+    name: Stochastic Modelling
+    year: 5
+
   sp:
     acronym: SP
     credits: 10
     cw_exam_ratio:
-    - 30
-    - 70
-    delivery: S1
-    delivery_ordinal: 1
-    diet: December
-    euclid_code: INFR11098
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11098.htm
-    level: 11
-    name: Secure Programming
-    year: 4
-  spt:
-    acronym: SPT
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
+      - 100
+      - 0
     delivery: S1
     delivery_ordinal: 1
     diet: ''
-    euclid_code: INFR11188
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11188.htm
+    euclid_code: MATH11176
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11176.htm
     level: 11
-    name: Research Methods in Security, Privacy, and Trust
+    name: Statistical Programming
     year: 5
-  st:
-    acronym: ST
+
+  bdan:
+    acronym: BDAn
     credits: 10
     cw_exam_ratio:
-    - 25
-    - 75
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH11175
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11175.htm
+    level: 11
+    name: Bayesian Data Analysis
+    year: 5
+
+  bds:
+    acronym: BDS
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
     delivery: S2
     delivery_ordinal: 2
     diet: April/May
-    euclid_code: INFR10057
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr10057.htm
-    level: 10
-    name: Software Testing
-    year: 3
-  stn:
-    acronym: STN
-    credits: 10
-    cw_exam_ratio:
-    - 40
-    - 60
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May; April/May
-    euclid_code: INFR11124
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11124.htm
+    euclid_code: MATH11174
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11174.htm
     level: 11
-    name: Social and Technological Networks
-    year: 4
-  thf:
-    acronym: THF
+    name: Biomedical Data Science
+    year: 5
+
+  csc:
+    acronym: CSc
     credits: 10
     cw_exam_ratio:
-    - 100
-    - 0
+      - 100
+      - 0
     delivery: S2
     delivery_ordinal: 2
     diet: ''
-    euclid_code: INFR11141
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11141.htm
+    euclid_code: MATH11148
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11148.htm
     level: 11
-    name: 'The Human Factor: Working with Users'
+    name: Credit Scoring
     year: 5
-  ttds:
-    acronym: TTDS
-    credits: 20
-    cw_exam_ratio:
-    - 50
-    - 50
-    delivery: YR
-    delivery_ordinal: 3
-    diet: April/May; April/May
-    euclid_code: INFR11145
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11145.htm
-    level: 11
-    name: Text Technologies for Data Science
-    year: 4
-  usec:
-    acronym: USec
+
+  frt:
+    acronym: FRT
     credits: 10
     cw_exam_ratio:
-    - 20
-    - 80
-    delivery: S1
-    delivery_ordinal: 1
-    diet: April/May; April/May
-    euclid_code: INFR11158
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11158.htm
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11132
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11132.htm
     level: 11
-    name: Usable Security and Privacy
-    year: 4
-  wbppcs:
-    acronym: WBPPCS
+    name: Financial Risk Theory
+    year: 5
+
+  grm:
+    acronym: GRM
+    credits: 10
+    cw_exam_ratio:
+      - 5
+      - 95
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11187
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11187.htm
+    level: 11
+    name: Generalised Regression Models
+    year: 5
+
+  ico:
+    acronym: ICO
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11192
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11192.htm
+    level: 11
+    name: Integer and Combinatorial Optimization
+    year: 5
+
+  mlpy:
+    acronym: MLPy
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11205
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11205.htm
+    level: 11
+    name: Machine Learning in Python
+    year: 5
+
+  mrc2:
+    acronym: MRC2
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH11115
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath112115.htm
+    level: 11
+    name: Mathematics Reading Course - S2
+    year: 5
+
+  np_mc:
+    acronym: NP_MC
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11202
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11202.htm
+    level: 11
+    name: Numerical Probability and Monte Carlo
+    year: 5
+
+  ods:
+    acronym: ODS
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11147
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11147.htm
+    level: 11
+    name: Large Scale Optimization for Data Science
+    year: 5
+
+  omf:
+    acronym: OMF
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11158
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11158.htm
+    level: 11
+    name: Optimization Methods in Finance
+    year: 5
+
+  orei:
+    acronym: OREI
+    credits: 10
+    cw_exam_ratio:
+      - 35
+      - 65
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11193
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11193.htm
+    level: 11
+    name: Operational Research in the Energy Industry
+    year: 5
+
+  proba:
+    acronym: Proba
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH11204
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11204.htm
+    level: 11
+    name: Probability and Statistics
+    year: 5
+
+  rnap:
+    acronym: RNAP
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11157
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11157.htm
+    level: 11
+    name: Risk-Neutral Asset Pricing
+    year: 5
+
+  rsfm:
+    acronym: RSFM
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH11228
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11228.htm
+    level: 11
+    name: Research Skills for Financial Mathematics
+    year: 5
+
+  scdaa:
+    acronym: SCDAA
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11150
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11150.htm
+    level: 11
+    name: Stochastic Control and Dynamic Asset Allocation
+    year: 5
+
+  sim_or:
+    acronym: SIM_OR
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11028
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11028.htm
+    level: 11
+    name: Simulation
+    year: 5
+
+  srs:
+    acronym: SRS
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH11188
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11188.htm
+    level: 11
+    name: Statistical Research Skills
+    year: 5
+
+  taor:
+    acronym: TAOR
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH11183
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11183.htm
+    level: 11
+    name: Topics in Applied Operational Research
+    year: 5
+
+  ts:
+    acronym: TS
+    credits: 10
+    cw_exam_ratio:
+      - 10
+      - 90
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11131
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11131.htm
+    level: 11
+    name: Time Series
+    year: 5
+
+  fac:
+    acronym: FAC
     credits: 20
     cw_exam_ratio:
-    - 100
-    - 0
-    delivery: B5+
-    delivery_ordinal: 4
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
     diet: ''
-    euclid_code: INFR11191
-    euclid_url: http://www.drps.ed.ac.uk/19-20/dpt/cxinfr11191.htm
+    euclid_code: MATH07003
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath07003.htm
+    level: 07
+    name: Fundamentals of Algebra and Calculus
+    year: 1
+
+  ima:
+    acronym: IMA
+    credits: 20
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH07004
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath07004.htm
+    level: 07
+    name: Introductory Mathematics with Applications
+    year: 1
+
+  ids:
+    acronym: IDS
+    credits: 20
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH08077
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08077.htm
+    level: 08
+    name: Introduction to Data Science
+    year: 1
+
+  em1a:
+    acronym: EM1a
+    credits: 20
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH08074
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08074.htm
+    level: 08
+    name: Engineering Mathematics 1a
+    year: 1
+
+  ila:
+    acronym: ILA
+    credits: 20
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH08057
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08057.htm
+    level: 08
+    name: Introduction to Linear Algebra
+    year: 1
+
+  mns1a:
+    acronym: MNS1a
+    credits: 20
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH08072
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08072.htm
+    level: 08
+    name: Mathematics for the Natural Sciences 1a
+    year: 1
+
+  aac:
+    acronym: AAC
+    credits: 20
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH08062
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08062.htm
+    level: 08
+    name: Accelerated Algebra and Calculus for Direct Entry
+    year: 2
+
+  apps:
+    acronym: APPS
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH08071
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08071.htm
+    level: 08
+    name: Accelerated Proofs and Problem Solving
+    year: 2
+
+  fom:
+    acronym: FoM
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH08068
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08068.htm
+    level: 08
+    name: Facets of Mathematics
+    year: 2
+
+  prob:
+    acronym: Prob
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH08066
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08066.htm
+    level: 08
+    name: Probability
+    year: 2
+
+  svcde:
+    acronym: SVCDE
+    credits: 20
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH08063
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08063.htm
+    level: 08
+    name: Several Variable Calculus and Differential Equations
+    year: 2
+
+  cap:
+    acronym: CAP
+    credits: 20
+    cw_exam_ratio:
+      - 40
+      - 60
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH08058
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08058.htm
+    level: 08
+    name: Calculus and its Applications
+    year: 1
+
+  em1b:
+    acronym: EM1b
+    credits: 20
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH08075
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08075.htm
+    level: 08
+    name: Engineering Mathematics 1b
+    year: 1
+
+  mns1b:
+    acronym: MNS1b
+    credits: 20
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH08073
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08073.htm
+    level: 08
+    name: Mathematics for the Natural Sciences 1b
+    year: 1
+
+  pps:
+    acronym: PPS
+    credits: 20
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH08059
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08059.htm
+    level: 08
+    name: Proofs and Problem Solving
+    year: 1
+
+  cnu:
+    acronym: CNu
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH08065
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08065.htm
+    level: 08
+    name: Computing and Numerics
+    year: 2
+
+  fpm:
+    acronym: FPM
+    credits: 20
+    cw_exam_ratio:
+      - 40
+      - 60
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH08064
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08064.htm
+    level: 08
+    name: Fundamentals of Pure Mathematics
+    year: 2
+
+  sta2:
+    acronym: Sta2
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH08051
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08051.htm
+    level: 08
+    name: Statistics (Year 2)
+    year: 2
+
+  dmp:
+    acronym: DMP
+    credits: 40
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: MATH10031
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10031.htm
+    level: 10
+    name: Project in Mathematics (Double)
+    year: 4
+
+  med:
+    acronym: MEd
+    credits: 20
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: MATH10010
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10010.htm
+    level: 10
+    name: Mathematical Education
+    year: 4
+
+  mproj:
+    acronym: MProj
+    credits: 20
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: MATH10063
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10063.htm
+    level: 10
+    name: Mathematics Project
+    year: 4
+
+  pmf:
+    acronym: PMF
+    credits: 20
+    cw_exam_ratio:
+      - 5
+      - 95
+    delivery: YR
+    delivery_ordinal: 3
+    diet: April/May
+    euclid_code: MATH10024
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10024.htm
+    level: 10
+    name: Probability, Measure & Finance
+    year: 4
+
+  scs:
+    acronym: SCS
+    credits: 20
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: MATH10102
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10102.htm
+    level: 10
+    name: Statistical Case Studies
+    year: 4
+
+  geom:
+    acronym: Geom
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10074
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10074.htm
+    level: 10
+    name: Geometry
+    year: 3
+
+  halg:
+    acronym: HAlg
+    credits: 20
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10069
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10069.htm
+    level: 10
+    name: Honours Algebra
+    year: 3
+
+  hdeq:
+    acronym: HDEq
+    credits: 20
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S1
+    delivery_ordinal: 1
+    euclid_code: MATH10066
+    diet: December
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10066.htm
+    level: 10
+    name: Honours Differential Equations
+    year: 3
+
+  nla:
+    acronym: NLA
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10098
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10098.htm
+    level: 10
+    name: Numerical Linear Algebra
+    year: 3
+
+  smo:
+    acronym: SMo
+    credits: 10
+    cw_exam_ratio:
+      - 5
+      - 95
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10007
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10007.htm
+    level: 10
+    name: Stochastic Modelling
+    year: 3
+
+  stme:
+    acronym: StMe
+    credits: 10
+    cw_exam_ratio:
+      - 30
+      - 70
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10095
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10095.htm
+    level: 10
+    name: Statistical Methodology
+    year: 3
+
+  amam:
+    acronym: AMAM
+    credits: 20
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: April/May
+    euclid_code: MATH10086
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10086.htm
+    level: 10
+    name: Advanced Methods of Applied Mathematics
+    year: 4
+
+  asde:
+    acronym: ASDE
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10053
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10053.htm
+    level: 10
+    name: Applied Stochastic Differential Equations
+    year: 4
+
+  dman:
+    acronym: DMan
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10088
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10088.htm
+    level: 10
+    name: Differentiable Manifolds
+    year: 4
+
+  eap:
+    acronym: EAP
+    credits: 10
+    cw_exam_ratio:
+      - 5
+      - 95
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10047
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10047.htm
+    level: 10
+    name: Essentials in Analysis and Probability
+    year: 4
+
+  ems:
+    acronym: EMS
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH10099
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10099.htm
+    level: 10
+    name: Entrepreneurship in the Mathematical Sciences
+    year: 4
+
+  fuor:
+    acronym: FuOR
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10065
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10065.htm
+    level: 10
+    name: Fundamentals of Operational Research
+    year: 4
+
+  grth:
+    acronym: GrTh
+    credits: 10
+    cw_exam_ratio:
+      - 25
+      - 75
+    delivery: S1
+    delivery_ordinal: 1
+    diet: April/May
+    euclid_code: MATH10079
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10079.htm
+    level: 10
+    name: Group Theory
+    year: 4
+
+  gtop:
+    acronym: GTop
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH10076
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10076.htm
+    level: 10
+    name: General Topology
+    year: 4
+
+  lan:
+    acronym: LAn
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: April/May
+    euclid_code: MATH10082
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10082.htm
+    level: 10
+    name: Linear Analysis
+    year: 4
+
+  mbi:
+    acronym: MBi
+    credits: 10
+    cw_exam_ratio:
+      - 40
+      - 60
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10013
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10013.htm
+    level: 10
+    name: Mathematical Biology
+    year: 4
+
+  pde:
+    acronym: PDE
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH10100
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10100.htm
+    level: 10
+    name: Introduction to Partial Differential Equations
+    year: 4
+
+  fim:
+    acronym: FiM
+    credits: 10
+    cw_exam_ratio:
+      - 5
+      - 95
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH10003
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10003.htm
+    level: 10
+    name: Financial Mathematics
+    year: 3
+
+  hana:
+    acronym: HAna
+    credits: 20
+    cw_exam_ratio:
+      - 30
+      - 70
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH10068
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10068.htm
+    level: 10
+    name: Honours Analysis
+    year: 3
+
+  hcov:
+    acronym: HCoV
+    credits: 20
+    cw_exam_ratio:
+      - 25
+      - 75
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH10067
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10067.htm
+    level: 10
+    name: Honours Complex Variables
+    year: 3
+
+  int:
+    acronym: INT
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH10071
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10071.htm
+    level: 10
+    name: Introduction to Number Theory
+    year: 3
+
+  lpms:
+    acronym: LPMS
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH10073
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10073.htm
+    level: 10
+    name: Linear Programming, Modelling and Solution
+    year: 3
+
+  nuode:
+    acronym: NuODE
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH10060
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10060.htm
+    level: 10
+    name: Numerical Ordinary Differential Equations and Applications
+    year: 3
+
+  scomp:
+    acronym: SComp
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH10093
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10093.htm
+    level: 10
+    name: Statistical Computing
+    year: 3
+
+  asta:
+    acronym: ASta
+    credits: 10
+    cw_exam_ratio:
+      - 10
+      - 90
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH10096
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10096.htm
+    level: 10
+    name: Applied Statistics
+    year: 4
+
+  atop:
+    acronym: ATop
+    credits: 10
+    cw_exam_ratio:
+      - 5
+      - 95
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH10077
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10077.htm
+    level: 10
+    name: Algebraic Topology
+    year: 4
+
+  fan:
+    acronym: FAn
+    credits: 10
+    cw_exam_ratio:
+      - 5
+      - 95
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH10051
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10051.htm
+    level: 10
+    name: Fourier Analysis
+    year: 4
+
+  gath:
+    acronym: GaTh
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH10080
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10080.htm
+    level: 10
+    name: Galois Theory
+    year: 4
+
+  syg:
+    acronym: SyG
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH10091
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10091.htm
+    level: 10
+    name: Symmetry and Geometry
+    year: 4
+
+  tmb:
+    acronym: TMB
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH10083
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10083.htm
+    level: 10
+    name: Topics in Mathematical Biology
+    year: 4
+
+  mdiss:
+    acronym: MDiss
+    credits: 40
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: ''
+    euclid_code: MATH11127
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11127.htm
     level: 11
-    name: Work-based Professional Practice in Cyber Security
+    name: Mathematics Dissertation
     year: 5
+
+  rana:
+    acronym: RAna
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH11136
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11136.htm
+    level: 11
+    name: Real Analysis
+    year: 5
+
+  tna:
+    acronym: TNA
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH11143
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11143.htm
+    level: 11
+    name: Topics in Noncommutative Algebra
+    year: 5
+
+  varc:
+    acronym: VarC
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S1
+    delivery_ordinal: 1
+    diet: December
+    euclid_code: MATH11179
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11179.htm
+    level: 11
+    name: Variational Calculus
+    year: 5
+
+  ads:
+    acronym: ADS
+    credits: 10
+    cw_exam_ratio:
+      - 25
+      - 75
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11140
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11140.htm
+    level: 11
+    name: Applied Dynamical Systems
+    year: 5
+
+  ag:
+    acronym: AG
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11120
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11120.htm
+    level: 11
+    name: Algebraic Geometry
+    year: 5
+
+  asd:
+    acronym: ASD
+    credits: 10
+    cw_exam_ratio:
+      - 0
+      - 100
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11024
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11024.htm
+    level: 11
+    name: The Analysis of Survival Data
+    year: 5
+
+  da:
+    acronym: DA
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11206
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11206.htm
+    level: 11
+    name: Data Assimilation
+    year: 5
+
+  ggr:
+    acronym: GGR
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11138
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11138.htm
+    level: 11
+    name: Geometry of General Relativity
+    year: 5
+
+  miab:
+    acronym: MiAB
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH11181
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11181.htm
+    level: 11
+    name: Mathematics in Action B
+    year: 5
+
+  npde:
+    acronym: NPDE
+    credits: 10
+    cw_exam_ratio:
+      - 20
+      - 80
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11207
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11207.htm
+    level: 11
+    name: Numerical Partial Differential Equations
+    year: 5
+
+  tmph:
+    acronym: TMPh
+    credits: 10
+    cw_exam_ratio:
+      - 50
+      - 50
+    delivery: S2
+    delivery_ordinal: 2
+    diet: April/May
+    euclid_code: MATH11227
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11227.htm
+    level: 11
+    name: Topics in Mathematical Physics A
+    year: 5
+
+  ant:
+    acronym: ANT
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S2
+    delivery_ordinal: 2
+    diet: ''
+    euclid_code: MATH11226
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath11226.htm
+    level: 11
+    name: Analytic Number Theory
+    year: 5
+
