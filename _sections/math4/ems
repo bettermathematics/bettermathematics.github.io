@@ -1,0 +1,16 @@
+  ems:
+    acronym: EMS
+    credits: 10
+    cw_exam_ratio:
+      - 100
+      - 0
+    delivery: S1
+    delivery_ordinal: 1
+    diet: ''
+    euclid_code: MATH10099
+    euclid_url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10099.htm
+    level: 10
+    name: Entrepreneurship in the Mathematical Sciences
+    year: 4
+    
+    
