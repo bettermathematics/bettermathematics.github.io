@@ -3,8 +3,8 @@ description: Welcome to Better Maths. The student run website for students in th
 sass:
    sourcemap: true
 
-url: "https://betterinformatics.com" # update previous line
-domain: "betterinformatics.com" # update next line
+url: "https://bettermathematics.github.io/" # update previous line
+domain: "https://bettermathematics.github.io/" # update next line
 baseurl: "" # does not include hostname
 
 collections:
