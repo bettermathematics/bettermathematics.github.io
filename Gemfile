@@ -10,7 +10,7 @@ source 'https://rubygems.org'
 # Happy Jekylling!
 
 group :jekyll_plugins do
-  gem 'github-pages', '~> 192'
+  gem 'github-pages', '~> 207'
 end
 
 # If you want to use Jekyll native, uncomment the line below.
