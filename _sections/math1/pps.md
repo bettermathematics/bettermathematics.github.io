@@ -1,8 +1,12 @@
 ---
 title: Proofs and Problem Solving
+course-acronym: pps
 year: 1
 semester: 2
 archived: false
+links:
+  - name: drps
+    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08059.htm
 ---
 
 - [Printable notes](https://www.notion.so/Proofs-and-Problem-Solving-4277d93a1231404c9a8e60e5337cdc2b) with all of the course material
