@@ -10,4 +10,4 @@ links:
 ---
 
 - [Matrix Mindmap](resources/math1/ila/Matrices.pdf) from Gesina
-- [Exam advice & revision sheet](resources/math1/ila/Revision Sheet.pdf)
+- [Exam advice and revision sheet](resources/math1/ila/Revision-Sheet.pdf)
