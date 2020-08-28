@@ -1,5 +1,6 @@
 ---
 title: Accelerated Algebra and Calculus for Direct Entry
+course-acronym: acc
 year: 2
 semester: 1
 archived: false

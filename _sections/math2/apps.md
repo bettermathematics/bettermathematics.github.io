@@ -1,5 +1,6 @@
 ---
 title: Accelerated Proofs and Problem Solving	
+course-acronym: apps
 year: 2
 semester: 1
 archived: false

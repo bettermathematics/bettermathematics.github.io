@@ -1,5 +1,6 @@
 ---
 title: Statistics (Year 2)
+course-acronym: sta2
 year: 2
 semester: 2
 archived: false
@@ -9,7 +10,8 @@ links:
 ---
 - Course organiser: Nikolaos Bournaveas
 - Course secretary: Martin Delaney
-- Cheatsheet from 2017/18 ([pdf](resources/sta2/stats.pdf), [TeX file](<https://github.com/mariegold/cheatsheets/tree/master/STATS-Y2>))
+- [Cheatsheet](resources/math2/sta2/stats.pdf) from Marie (2017/18; [TeX file](<https://github.com/mariegold/cheatsheets/tree/master/STATS-Y2>))
+- [Cheatsheet](resources/math2/sta2/Statistics_Formula_Sheet.pdf) from Will (2017/18)
 - Recommended but non&ndash;essential course texts are:
   - Devore and Berk (2012) Modern mathematical statistics with applications. 2nd edition.
   - Rice (2007) Mathematical statistics and data analysis. 3rd edition.

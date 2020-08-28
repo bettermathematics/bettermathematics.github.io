@@ -10,9 +10,8 @@ links:
 ---
 
 - Course organiser: José Figueroa-O'Farrill
-
 - Course secretary: Alison Fairgrieve
-
+- [Formula Sheet](resources/math4/dman/Differentiable_Manifolds_Formula_Sheet.pdf) from Will
 - Reading List: John Lee, Introduction to smooth manifolds, Springer 2012
 
   Michael Spivak, Calculus on manifolds, Benjamin, 1965
