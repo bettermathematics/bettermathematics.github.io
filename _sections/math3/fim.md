@@ -2,7 +2,7 @@
 title: Financial Mathematics (MATH10003)
 year: 3
 semester: 2 
-course-acronym: FiM
+course-acronym: fim
 archived: false
 pinned: false
 links:

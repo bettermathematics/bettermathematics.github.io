@@ -2,7 +2,7 @@
 title: Honours Complex Variables (MATH10068)
 year: 3
 semester: 2 
-course-acronym: HCoV
+course-acronym: hcov
 archived: false
 pinned: false
 links:

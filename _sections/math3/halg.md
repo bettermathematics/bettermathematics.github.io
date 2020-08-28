@@ -2,7 +2,7 @@
 title: Honours Algebra (MATH10069)
 year: 3
 semester: 1 
-course-acronym: HAlg
+course-acronym: halg
 archived: false
 pinned: false
 links:
@@ -25,8 +25,8 @@ It showcases the power of abstraction and brings together several different topi
 
 **Useful Notes:**
 
-- [Cheatsheeet](resources/math3/halg/Algebra.pdf) from Owen
-- [Cheatsheeet](resources/math3/halg/Algebra_Formula_Sheet.pdf) from Will
+- [Cheatsheet](resources/math3/halg/Algebra.pdf) from Owen
+- [Cheatsheet](resources/math3/halg/Algebra_Formula_Sheet.pdf) from Will
 
 **Prerequisites:** 
 

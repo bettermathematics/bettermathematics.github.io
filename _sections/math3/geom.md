@@ -2,7 +2,7 @@
 title: Geometry (MATH10074)
 year: 3
 semester: 1 
-course-acronym: Geom
+course-acronym: geom
 archived: false
 pinned: false
 links:

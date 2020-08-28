@@ -2,7 +2,7 @@
 title: Introduction to Number Theory (MATH10071)
 year: 3
 semester: 2 
-course-acronym: INT
+course-acronym: int
 archived: false
 pinned: false
 links:

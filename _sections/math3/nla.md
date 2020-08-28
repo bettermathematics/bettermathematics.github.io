@@ -2,7 +2,7 @@
 title: Numerical Linear Algebra (MATH10098)
 year: 3
 semester: 1 
-course-acronym: NLA
+course-acronym: nla
 archived: false
 pinned: false
 links:

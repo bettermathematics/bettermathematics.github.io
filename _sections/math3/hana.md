@@ -2,7 +2,7 @@
 title: Honours Analysis (MATH10068)
 year: 3
 semester: 2 
-course-acronym: HAna
+course-acronym: hana
 archived: false
 pinned: false
 links:
