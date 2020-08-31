@@ -9,9 +9,8 @@ pinned: true
   - **Timetables and courses**: [Semester dates](https://www.ed.ac.uk/semester-dates), [path](https://path.is.ed.ac.uk/), [Degree Programme Tables (DPT)](http://www.drps.ed.ac.uk/20-21/dpt/drpsindex.htm)
   - **Library**:
     -  The library service in the upcoming year is likely to be restricted – check [Library Services Update](https://www.ed.ac.uk/information-services/library-museum-gallery/library-services-update-2020-21) for more details
-    - Library resources online:  [DiscoverEd](https://discovered.ed.ac.uk/)
+    - Library resources online: [DiscoverEd](https://discovered.ed.ac.uk/)
  - **Reps**: 
-    
     - School:
     - Year 1:
     - Year 2:
