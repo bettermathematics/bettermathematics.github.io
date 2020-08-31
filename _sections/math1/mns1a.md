@@ -1,6 +1,6 @@
 ---
 title: Mathematics for the Natural Sciences 1a
-course-acronym: mns1
+course-acronym: mns1a
 year: 1
 semester: 1
 credits: 20
