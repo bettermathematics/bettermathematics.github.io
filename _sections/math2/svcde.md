@@ -4,9 +4,6 @@ course-acronym: svcde
 year: 2
 semester: 1
 archived: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08063.htm
 ---
 - Course organiser: Maximilian Ruffert
 - Course secretary: Martin Delaney

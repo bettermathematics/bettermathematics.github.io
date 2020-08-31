@@ -4,10 +4,6 @@ year: 3
 semester: 2 
 course-acronym: hcov
 archived: false
-pinned: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10067.htm
 ---
 **Short Summary:** 
 

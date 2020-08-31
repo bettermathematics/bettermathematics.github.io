@@ -18,17 +18,11 @@
 <section id="{{ sectionID | strip }}" data-semester="{{ semester }}" {{ sectionStyle }}>
     <h3>
         <span>
-            {% if section.link %}
-                <a href="{{ section.link }}">
-            {% elsif section.course-acronym != "" %}
-                {% if section.learn %}
-                    <a href="https://course.inf.ed.ac.uk/{{ section.course-acronym }}/">
-                {% else %}
-                    <a href="https://www.inf.ed.ac.uk/teaching/courses/{{ section.course-acronym }}/">
-                {% endif %}
+            {% if course %}
+                <a href="{{ course.euclid_url }}">
             {% endif %}
             {{ section.title }}
-            {% if section.link or section.course-acronym != "" %}
+            {% if course  %}
                 </a>
             {% endif %}
 
@@ -37,11 +31,6 @@
                 {% for link in section.links %}{% if forloop.first == false %}, {% endif %}<a href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
             {% endif %}
             {% if course %}
-                |
-                <a href="{{ course.euclid_url }}">drps</a>,
-                <a href="http://course.inf.ed.ac.uk/{{ section.course-acronym }}">info</a>{% if course.cw_exam_ratio.first != 100 %},
-                <a href="https://exampapers.ed.ac.uk/search/{{ course.euclid_code }}">papers</a>
-                {% endif %}
                 {% if course.year != page.year %}
                 This course is misplaced. It should be on the year {{ course.year }} page.
                 {% endif %}

@@ -4,9 +4,6 @@ course-acronym: sta2
 year: 2
 semester: 2
 archived: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08051.htm
 ---
 - Course organiser: Nikolaos Bournaveas
 - Course secretary: Martin Delaney

@@ -4,9 +4,6 @@ course-acronym: mbi
 year: 4
 semester: 1
 archived: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10013.htm
 ---
 
 - Course organiser: Nikola Popovic

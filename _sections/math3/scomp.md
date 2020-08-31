@@ -5,9 +5,6 @@ year: 3
 semester: 2
 archived: false
 pinned: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10093.htm
 ---
 
 **Short Summary:** 

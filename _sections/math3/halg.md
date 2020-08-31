@@ -3,11 +3,6 @@ title: Honours Algebra (MATH10069)
 year: 3
 semester: 1 
 course-acronym: halg
-archived: false
-pinned: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10069.htm
 ---
 **Short Summary:** 
 

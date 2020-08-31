@@ -5,10 +5,6 @@ year: 1
 semester:  1
 credits: 20
 archived: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath07003.htm
-
 ---
 **Short Summary:**
 An introductory course in University Mathematics covering topics not covered in the previous education of many incoming undergraduates on degrees involving Mathematics.  

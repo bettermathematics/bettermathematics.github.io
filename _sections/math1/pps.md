@@ -3,10 +3,6 @@ title: Proofs and Problem Solving
 course-acronym: pps
 year: 1
 semester: 2
-archived: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08059.htm
 ---
 **Short Summary:**
 This course is designed to introduce and develop the fundamental skills needed for advanced study in Pure Mathematics. 
@@ -15,3 +11,6 @@ This course is designed to introduce and develop the fundamental skills needed f
 - [Twelvefold way](https://en.wikipedia.org/wiki/Twelvefold_way) for combinatorics problems.
 - The course will follow the book A Concise Introduction to Pure Mathematics, by Martin Liebeck, 4th Ed. 015, CRC Press, £25.99
 - Cheatsheet with all the notations, definitions, theorems, propositions, and examples from the textbook (condensed into 38 pages) grouped by sections: [source](https://github.com/boramalper/inf1-pps-cheatsheet)
+
+Textbook:
+- [M. Liebeck, *A Concise Introduction to Pure Mathematics*](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=TN_cdi_proquest_ebookcentral_EBC4710311&vid=44UOE_VU2&search_scope=default_scope&tab=default_tab&lang=en_US&context=PC)

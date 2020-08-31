@@ -4,10 +4,6 @@ year: 3
 semester: 1 
 course-acronym: smo
 archived: false
-pinned: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10007.htm
 ---
 
 **Short Summary:** 

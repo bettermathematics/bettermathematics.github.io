@@ -4,10 +4,6 @@ year: 3
 semester: 2 
 course-acronym: hana
 archived: false
-pinned: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10068.htm
 ---
 **Short Summary:** 
 
@@ -19,24 +15,15 @@ This course also has a "Skills" portion which involves practising explaining mat
 
 Main topics: FPM Analysis revision, Cauchy sequences, Bolzano Weierstrass theorem, Uniform convergence of sequences and series of functions, power series, The Reimann integral, uniform convergence, the fundamental theorem of calculus,  metric spaces, point set topology, Heine-Borel theorem, Banach contradiction mapping theorem & applications, Fourier series.
 
-**Course Organiser:** [Dr Martin Dindos](<M.Dindos@ed.ac.uk>)
-
-**Course Secretary:** [Mr Christopher Palmer](<chris.palmer@ed.ac.uk>) 
-
-**Reading List:** *students expected to have a personal copy of*
-
-- Wade, W R, *An Introduction to Analysis*, 4th Edition, ISBN 9780136153702
-
-**Useful Notes:**
-
+- Course Organiser: [Dr Martin Dindos](<M.Dindos@ed.ac.uk>)
+- Course Secretary: [Mr Christopher Palmer](<chris.palmer@ed.ac.uk>) 
 - [Cheatsheeet](resources/math3/hana/Analysis.pdf) from Owen
 - [Cheatsheeet](resources/math3/hana/Analysis_Formula_Sheet.pdf) from Will
 
-**Prerequisites:** 
+Textbook:
+- [W. R. Wade, *An Introduction to Analysis*](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51221540550002466&vid=44UOE_VU2&search_scope=default_scope&tab=default_tab&lang=en_US&context=L)
 
+**Prerequisites:** 
 - [Fundamentals of Pure Mathematics (MATH08064)](/math2/#fpm) 
 
-**Exam Info:** *not yet published*
-
-**Other:** 
 

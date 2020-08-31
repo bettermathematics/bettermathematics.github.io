@@ -4,9 +4,6 @@ course-acronym: cnu
 year: 2
 semester: 2
 archived: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08065.htm
 ---
 - Course organiser: Charlotte Desvages
 - Course secretary: Martin Delaney

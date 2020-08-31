@@ -4,10 +4,6 @@ course-acronym: fan
 year: 4
 semester: 2
 archived: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10051.htm
-
 ---
 
 - Course organiser: A Carbery

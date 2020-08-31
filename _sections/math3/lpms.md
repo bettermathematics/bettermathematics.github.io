@@ -5,9 +5,6 @@ semester: 2
 course-acronym: lpms
 archived: false
 pinned: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10073.htm
 ---
 **Short Summary:** 
 

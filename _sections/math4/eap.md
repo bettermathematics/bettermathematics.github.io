@@ -3,10 +3,6 @@ title: Essentials in Analysis and Probability
 course-acronym: eap
 year: 4
 semester: 1
-archived: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10047.htm
 ---
 
 - Course organiser: Istvan Gyongy

@@ -4,9 +4,6 @@ course-acronym: ila
 year: 1
 semester: 1
 archived: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath08057.htm
 ---
 
 **Short Summary:**
@@ -25,3 +22,6 @@ The principal topics are vectors, systems of linear equations, matrices, eigenva
 - Answers for Poole ([3rd edition], [4th edition])
 - [42 - calc app capable of Eigenstuff and other linear algebra](http://math-42.com/)
 - [Subspaces, basis etc](http://www.math.wvu.edu/~diamond/Math251S14/basis.pdf)
+
+Textbook:
+- [D. Poole, *Linear Algebra; A modern introduction*](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781473715455&vid=44UOE_VU2&search_scope=default_scope&tab=default_tab&lang=en_US&context=PC)

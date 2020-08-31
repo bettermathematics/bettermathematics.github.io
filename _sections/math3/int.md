@@ -5,9 +5,6 @@ semester: 2
 course-acronym: int
 archived: false
 pinned: false
-links:
-  - name: drps
-    url: http://www.drps.ed.ac.uk/20-21/dpt/cxmath10071.htm
 ---
 **Short Summary:** 
 
