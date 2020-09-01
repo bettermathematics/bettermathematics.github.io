@@ -4,7 +4,6 @@ course-acronym: fac
 year: 1
 semester:  1
 credits: 20
-archived: false
 ---
 **Short Summary:**
 An introductory course in University Mathematics covering topics not covered in the previous education of many incoming undergraduates on degrees involving Mathematics.  
