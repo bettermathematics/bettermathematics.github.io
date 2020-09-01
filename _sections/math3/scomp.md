@@ -19,8 +19,8 @@ Main topics: basic commands of R, data structures and data manipulation, writing
 
 **Reading List:** 
 
-- Crawley. M. (2013). *The R Book (2nd edition)*. Wiley.
-- Venables, W. N. and Ripley, B. D., (2002). *Modern Applied Statistics with S (4th edition)*. Springer.
+- Crawley. M. (2013). [*The R Book (2nd edition)*](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_skillsoft_books24x7_bks00044455). Wiley.
+- Venables, W. N. and Ripley, B. D., (2002). [*Modern Applied Statistics with S (4th edition)*](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_springer_bookarchives_10_1007_978_0_387_21706_2). Springer.
 
 **Useful Notes:**
 
