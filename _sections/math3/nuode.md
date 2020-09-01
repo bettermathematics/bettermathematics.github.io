@@ -16,10 +16,10 @@ Most ordinary differential equations (ODEs) lack solutions that can be given in 
 
 **Reading List:** An electronic set of lecture notes will be provided. Students may find the following useful:
 
-- D. Griffiths and D. Higham, *Numerical Methods for Ordinary Differential Equations*,
+- D. Griffiths and D. Higham, [*Numerical Methods for Ordinary Differential Equations*](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA21149569340002466),
   Springer 2010
-- A. Iserlies, *A First Course in the Numerical Analysis of Differential Equations*, Cambridge University Press, 2008
-- L. N. Trefethen, *Finite Difference and Spectral Methods for Ordinary and Partial Differential Equations*
+- A. Iserlies, [*A First Course in the Numerical Analysis of Differential Equations*](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_askewsholts_vlebooks_9781139636568), Cambridge University Press, 2008
+- L. N. Trefethen, [*Finite Difference and Spectral Methods for Ordinary and Partial Differential Equations*](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51181290460002466)
 
 **Useful Notes:**
 
