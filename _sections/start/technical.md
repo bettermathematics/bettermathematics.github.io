@@ -11,3 +11,4 @@ title: Technical
 	- Linux: [TeX Live](https://www.tug.org/texlive/)
 - [LaTeX for Beginners](http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf)
 - [The Not So Short Introduction to LaTeX: LaTeX in 139 minutes](https://tobi.oetiker.ch/lshort/lshort.pdf)
+- Contact: bettermathematicsuoe@gmail.com 
