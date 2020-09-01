@@ -20,7 +20,7 @@ Main topics: solution of linear systems of equations, the solution of least squa
 
 - *Numerical Linear Algebra and Applications, Second Edition*, B. N. Datta, SIAM, ISBN: 978-0-898716-85-6
 - *Numerical Linear Algebra*, Lloyd "Nick" Trefethen and David Bau III, SIAM, ISBN: 978-0898713619
-- *Applied numerical linear algebra*, James "Jim" Demmel, SIAM, ISBN: 978-0898713893
+- [*Applied numerical linear algebra*](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51153265030002466), James "Jim" Demmel, SIAM, ISBN: 978-0898713893
 
 **Useful Notes:**
 
