@@ -22,9 +22,9 @@ This course also has a "Skills" portion which involves mathematical reading and 
 **Reading List:** *useful reading, not essential*
 
 - Sarason, *Complex Function Theory*, 2nd Edition, ISBN 9780821844281
-- Bak and Newman, *Complex Analysis*, 3rd ed. 2010, ISBN 9781441972873
+- Bak and Newman, [*Complex Analysis*](https://discovered.ed.ac.uk/permalink/f/gfso8q/44UOE_ALMA21149529720002466), 3rd ed. 2010, ISBN 9781441972873
 - Wilde, *Lecture Notes in Complex Analysis*, illustrated edition, ISBN 9781860946431
-- Priestley, *Introduction to Complex Analysis*, 2nd edition, ISBN 9780198525622
+- Priestley, [*Introduction to Complex Analysis*](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_askewsholts_vlebooks_9780191583339), 2nd edition, ISBN 9780198525622
 
 **Useful Notes:**
 
