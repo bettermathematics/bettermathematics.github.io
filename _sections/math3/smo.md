@@ -18,8 +18,8 @@ Main topics: Probability review, definition of stochastic processes, Markov chai
 
 **Reading List:** 
 
-- R. Durrett. *Essentials of Stochastic Processes*, Springer, 2012. 
-- V. Kulkarni. *Modelling and Analysis of Stochastic Systems*, CRC Press, 2010.
+- R. Durrett. [*Essentials of Stochastic Processes*](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51165413410002466), Springer, 2012. 
+- V. Kulkarni. [*Modelling and Analysis of Stochastic Systems*](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_proquest_ebookcentral_EBC1633580), CRC Press, 2010.
 
 **Useful Notes:**
 
