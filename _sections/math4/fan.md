@@ -12,4 +12,4 @@ archived: false
 
   Fourier Series and Integrals, by H. Dym and H. McKean, Academic Press.
 
-  Fourier Analysis, by T.W. Korner, Cambridge University Press
+  [Fourier Analysis](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_askewsholts_vlebooks_9781107702240), by T.W. Korner, Cambridge University Press
