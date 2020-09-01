@@ -23,6 +23,14 @@ Prerequisites:
 - [Fundamentals of Pure Mathematics (MATH08064)](/math2/#fundamentals-of-pure-mathematics)
 - [Probability (MATH08066)](/math2/#probability) **OR** [Probability with Applications (MATH08067)](/math2/#probability-with-applications)
 
+Reading List (recommended reading only):
+- Björk, Tomas. [Arbitrage theory in continuous time](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_scopus_primary_601174437). 3rd Edition, Oxford Uni-
+versity Press 2009
+- Hull, John C. Options, Futures and Other Derivatives. Elsevier/Butterworth
+Heinemann, 2013
+- Shreve, Steven E.. Stochastic calculus for finance. I. Springer-Verlag 2004
+- Shreve, Steven E.. Stochastic calculus for finance. II. Springer-Verlag 2004
+
 Exam Info: *not yet published*
 
 Other:
