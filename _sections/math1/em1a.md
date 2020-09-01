@@ -12,6 +12,6 @@ This course is restricted to students for whom it is a compulsory part of their 
 ---
 
 **Reading list**:
-"Mathematics for Science and Engineering 1", adapted from Modern Engineering Mathematics, 4th Edition by Glyn James.  
+"Mathematics for Science and Engineering 1", adapted from [Modern Engineering Mathematics](https://discovered.ed.ac.uk/permalink/f/gfso8q/44UOE_ALMA51189109720002466), 4th Edition by Glyn James.  
 ISBN: CU.James: Modern Maths Pack 2013.  
   
