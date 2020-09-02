@@ -14,7 +14,7 @@ title: Self Care
           <li><a href="https://ednightline.com/">Nightline</a> - Confidential dial in service, 8pm-8am every term night (<a href="tel:01315574444">call</a>, <a href="https://ednightline.com/instant-messenger/">IM)</a> 
               <p><b>UPDATE</b><em> Nightline seems to be closed to keep its volunteers safe during the pandemic</em>         
               </p></li>
-          <li><a href:"https://www.edweb.ed.ac.uk/chaplaincy">University Chaplaincy</a> - safe and welcoming service for people of all faiths and none. Their <a href="https://www.edweb.ed.ac.uk/chaplaincy/the-listening-service">Listening Service</a> is available for drop-in chats about hefty topics.</li>
+          <li><a href="https://www.edweb.ed.ac.uk/chaplaincy">University Chaplaincy</a> - safe and welcoming service for people of all faiths and none. Their <a href="https://www.edweb.ed.ac.uk/chaplaincy/the-listening-service">Listening Service</a> is available for drop-in chats about hefty topics.</li>
           <li><a href="https://www.edweb.ed.ac.uk/student-counselling/services">Student Counselling</a> - offers 1-1 telephone and email counselling (in light of the pandemic). Note that sometimes the waiting list can be quite long - <a href= "https://www.edweb.ed.ac.uk/student-counselling/services/one-to-one-therapy/self-referral-form">counselling self referral</a></li>
           <li><details><summary>Long-term mental health issues support</summary>
           <p><a href="https://www.edweb.ed.ac.uk/student-disability-service/staff/supporting-students/support-for-disabled-students/mental-health/mental-health-mentor">Mental Health Mentors</a> - mentor support for students with long-term mental ill-health</p> 
