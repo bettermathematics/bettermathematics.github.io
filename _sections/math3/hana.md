@@ -5,8 +5,6 @@ semester: 2
 course-acronym: hana
 archived: false
 ---
-**Short Summary:** 
-
 *CORE COURSE for Honours Degrees involving Mathematics*. 
 
 This course builds on ideas studied in the analysis portion of [Fundamentals of Pure Mathematics (MATH08064)](/math2/#fundamentals-of-pure-mathematics). The course introduces uniform convergence and the Reimann integral, and leads onto the abstract concept of a metric space.  Finally we look at some applications to solving equations via the fixed-point method, and at the rudiments of Fourier series.
@@ -19,11 +17,12 @@ Main topics: FPM Analysis revision, Cauchy sequences, Bolzano Weierstrass theore
 - Course Secretary: [Mr Christopher Palmer](<chris.palmer@ed.ac.uk>) 
 - [Cheatsheeet](resources/math3/hana/Analysis.pdf) from Owen
 - [Cheatsheeet](resources/math3/hana/Analysis_Formula_Sheet.pdf) from Will
+- [Overview Sheet](https://github.com/smueksch/real-analysis-overview) from Sebastian
 
 Textbook:
 - [W. R. Wade, *An Introduction to Analysis*](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51221540550002466&vid=44UOE_VU2&search_scope=default_scope&tab=default_tab&lang=en_US&context=L)
 
-**Prerequisites:** 
-- [Fundamentals of Pure Mathematics (MATH08064)](/math2/#fpm) 
+- Prerequisites:
+    - [Fundamentals of Pure Mathematics (MATH08064)](/math2/#fpm) 
 
 
