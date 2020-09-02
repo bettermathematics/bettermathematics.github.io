@@ -80,7 +80,8 @@ title: Self Care
           <li><a href="https://budgetbytes.com")>BudgetBytes</a> - Ditch Deliveroo, save money by cooking yourself </li>
           <li><a href="https://www.topuniversities.com/blog/brain-food-what-eat-when-revising">Brain Food - What to eat when revising</a></li>
           <li><a href="https://www.thestudentfoodproject.com">The Student Food Project</a> - quick, cheap and easy student recipes</li>
-          <li><a href="https://www.savethestudent.org/save-money/food-drink">55 ways to save money on food</a></li>        
+          <li><a href="https://www.savethestudent.org/save-money/food-drink">55 ways to save money on food</a></li>
+          <li><a href="https://www.ed.ac.uk/files/atoms/files/food_shopping_guide_2018.pdf">Edinburgh food shopping guide</a>  
       </ul>
    </details>
 
