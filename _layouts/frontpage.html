@@ -30,7 +30,7 @@ layout: default
         <span>
             Exams
             <small>
-                | <a href="https://exams.is.ed.ac.uk">official list</a>    
+                | <a href="https://exams.is.ed.ac.uk">official list</a>
             </small>
         </span>
     </h3>
@@ -45,7 +45,9 @@ layout: default
 {% assign sections = sections | where: "archived", "false" %}
 {% endif %}
 
+{% if page.year %}
 {{ sections }}
+{% endif %}
 
 <!-- Then show non-pinned sections -->
 
@@ -54,4 +56,6 @@ layout: default
 {% assign sections = sections | where: "archived", "false" %}
 {% endif %}
 
+{% if page.year %}
 {{ sections }}
+{% endif %}
