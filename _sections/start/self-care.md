@@ -8,7 +8,7 @@ title: Self Care
 - [Edinburgh Crisis Centre](http://www.edinburghcrisiscentre.org.uk/wordpress/) - For mental health emergencies
 - [Edinburgh Samaritans](https://samaritans.org/branches/edinburgh) - A hotline service if you need someone to talk to
 
-- <details><summary> University of Edinburgh resources / services </summary> 
+- University of Edinburgh resources / services <details>
       <ul>
           <li><a href="https://www.eusa.ed.ac.uk/support_and_advice/the_advice_place/">EUSA Advice Place</a> - Ask about anything here </li>
           <li><a href="https://ednightline.com/">Nightline</a> - Confidential dial in service, 8pm-8am every term night (<a href="tel:01315574444">call</a>, <a href="https://ednightline.com/instant-messenger/">IM)</a> 
@@ -23,14 +23,14 @@ title: Self Care
     </ul>    
   </details>
   
-- <details><summary>NHS resources</summary> 
+- NHS resources <details>
       <ul>
           <li>Your <a href="https://www.nhsinform.scot/care-support-and-rights/nhs-services/doctors/registering-with-a-gp-practice">GP</a> is a great source of information, feel free to contact them / book an appointment.</li>
           <li><a href="https://www.nhs.uk/conditions/suicide/">NHS information on suicide</a> - Information and help about suicidal thoughts</li>
       </ul>    
   </details>
 
- - <details><summary>Mental Health apps / online courses</summary> 
+ - Mental Health apps / online courses <details>
         All three of these apps are NHS-developed and properly regulated
         <ul>
             <li><a href="https://www.edweb.ed.ac.uk/counselling-services/staff/feeling-good-app">Feeling Good App</a> - app that helps calm the body and mind, and aids recovery from mental distress, via a series of audio tracks. All Edi Uni students have free access to this self-help programme </li>
@@ -43,14 +43,14 @@ title: Self Care
 
 **Physical Health**
 
- - <details><summary>Gyms</summary> 
+ - Gyms <details> 
         <ul>
             <li><a href="https://www.ed.ac.uk/sport-exercise">Pleasance Sports Centre</a> - 6am to 10pm weekdays, 9am to 8pm weekends</li>
             <li><a href="https://www.puregym.com/gyms/edinburgh-quartermile/">PureGym Quartermile</a> - 24 hours</li>
         </ul>
     </details>
     
-- <details><summary>Beginner's Fitness</summary>
+- Beginner's Fitness <details>
       <ul>
           <li><a href="https://stronglifts.com/5x5">SL 5x5</a> - Simple, effective strength routine</li>
           <li><a href="https://www.puregym.com/gyms/edinburgh-quartermile/">C25K</a> - Couch to 5K: train for a 5K from nothing in 10 weeks</li>
@@ -58,7 +58,7 @@ title: Self Care
       </ul>
   </details>
 
-- <details><summary> Beginner's Nutrition / Weight Loss </summary>
+- Beginner's Nutrition / Weight Loss <details> 
          <ul>
              <li><a href="https://old.reddit.com/r/loseit/wiki/quick_start_guide">/r/loseit wiki</a> - A good intro to safe, healthy weight loss</li>
              <li><a href="https://old.reddit.com/r/gainit/wiki/index">/r/gainit wiki</a> - A good intro to gaining muscle mass</li>
@@ -68,13 +68,13 @@ title: Self Care
 
 **Student life tips**
 
- - <details><summary> International Students </summary> 
+ - International Students <details>
        <ul>
            <li><a href="https://www.ukcisa.org.uk">UKCISA</a> - a great website for ALL aspects of International Student issues, e.g. culture shock, travel, UK traditions, opening a bank account, understanding Students Unions etc. </li>
        </ul>
    </details>
 
-- <details> <summary> Cooking and Food </summary>
+- Cooking and Food <details>
       <ul>
           <li><a href="https://www.nhs.uk/live-well/eat-well/20-tips-to-eat-well-for-less/">20 tips for eating well cheaply from the NHS</li>
           <li><a href="https://budgetbytes.com")>BudgetBytes</a> - Ditch Deliveroo, save money by cooking yourself </li>
@@ -85,14 +85,14 @@ title: Self Care
       </ul>
    </details>
 
-- <details> <summary> Transport </summary>
+- Transport <details>
       <ul>
           <li><a href="https://www.16-25railcard.co.uk")>18-25 Railcard</a> - Save 1/3 fare on train tickets for £30/year (for everyone aged 16-25 and mature students in full-time study)</li>
           <li><a href="https://www.lothianbuses.com/using-the-bus/student-guide/">Lothian Buses student guide</a> includes important Covid-19 public transport information</li>
       </ul>
   </details>
 
-- <details> <summary> Student Discounts </summary>
+- Student Discounts <details>
       <ul>
           <li><a href="https://www.myunidays.com")>Unidays</a> - Student discounts on just about everything</li>
       </ul>
