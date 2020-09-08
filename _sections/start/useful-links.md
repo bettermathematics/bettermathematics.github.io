@@ -16,7 +16,8 @@ pinned: true
   - Year 1:    
   - Year 2:
   - Year 3:
-  - Year 4/5:</details>
+  - Year 4/5:
+</details>
 - [School of Mathematics Document Sharing](https://uoe.sharepoint.com/sites/schoolofmaths/students/SitePages/Home.aspx)
     
     
