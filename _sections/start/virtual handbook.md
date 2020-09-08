@@ -9,4 +9,4 @@ title: Virtual Social Handbook
 - [Reaching out](https://drive.google.com/file/d/1ZUPiDE1lXZcbNLtMIfQ1nJXpj6oTqifp/view?usp=sharing)
 - [Practice empathy towards your peers](https://drive.google.com/file/d/1TixW-3kzS1iuP7HWTfOOx9st1N0s7bZY/view?usp=sharing)
 - Complete handbook [PDF download](resources/general/virtual-social-handbook-v3.pdf)
-- Virtual Social Events Cookbook (not in the handbook) [PDF download](resources/general/Social events cookbook v2.pdf)
+- Virtual Social Events Cookbook [PDF download](resources/general/Social events cookbook v2.pdf) (not in the handbook)
