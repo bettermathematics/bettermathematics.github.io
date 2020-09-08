@@ -12,13 +12,11 @@ pinned: true
     - Library resources online: [DiscoverEd](https://discovered.ed.ac.uk/)
 - [Past papers](https://exampapers.ed.ac.uk/discover?filtertype=author&filter_relational_operator=equals&filter=Mathematics%2C+School+of)
 - **Reps**:
-<details>
   - School:
   - Year 1:    
   - Year 2:
   - Year 3:
   - Year 4/5:
-</details>
 - [School of Mathematics Document Sharing](https://uoe.sharepoint.com/sites/schoolofmaths/students/SitePages/Home.aspx)
     
     
