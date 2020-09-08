@@ -11,12 +11,13 @@ pinned: true
     -  The library service in the upcoming year is likely to be restricted – check [Library Services Update](https://www.ed.ac.uk/information-services/library-museum-gallery/library-services-update-2020-21) for more details
     - Library resources online: [DiscoverEd](https://discovered.ed.ac.uk/)
 - [Past papers](https://exampapers.ed.ac.uk/discover?filtertype=author&filter_relational_operator=equals&filter=Mathematics%2C+School+of)
-- **Reps**: 
+- **Reps**:<details>
   - School:
   - Year 1:    
   - Year 2:
   - Year 3:
   - Year 4/5:
+  </details>
 - [School of Mathematics Document Sharing](https://uoe.sharepoint.com/sites/schoolofmaths/students/SitePages/Home.aspx)
     
     
