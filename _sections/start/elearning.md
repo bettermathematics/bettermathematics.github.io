@@ -3,7 +3,7 @@ year: start
 title: Hybrid Learning
 ---
 
-This year, the university experience is likely to be different to previous years. The [**Virtual Social Handbook**](resources/general/virtual-social-handbook-v3.pdf) will provide you with some useful information from students regarding this change. There's also some [guidance from the University](https://www.ed.ac.uk/institute-academic-development/study-hub/learning-resources/hybrid-learning-and-teaching).
+This year, the university experience is likely to be different to previous years. The [**Virtual Social Handbook**](https://bettermathematics.github.io/#virtual-social-handbook) will provide you with some useful information from students regarding this change. There's also some [guidance from the University](https://www.ed.ac.uk/institute-academic-development/study-hub/learning-resources/hybrid-learning-and-teaching).
 
 - [Tech & equipment needed](https://teaching.maths.ed.ac.uk/main/undergraduate/studies/equipment) for studying in the School of Mathematics -- you can [borrow a laptop](https://backend.maths.ed.ac.uk/maths-services/student_laptops/uoe-laptops.php) directly from the School, or use the [University Laptop Loan Service](https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/borrowing-a-book/borrowing-laptops)
 - [Office365](https://www.ed.ac.uk/information-services/computing/comms-and-collab/office365): Mail, Calendar, OneDrive, Teams, OneNote, SharePoint, Skype for Business etc.
