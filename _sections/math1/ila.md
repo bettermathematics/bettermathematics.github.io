@@ -19,7 +19,6 @@ The principal topics are vectors, systems of linear equations, matrices, eigenva
 - [Explanatory videos from Mathapptician](https://www.youtube.com/watch?v=S6yJY2NrVL0&list=PL9NlTZRdFADdc4yn_OVDpv-2pDiOKU7KH&index=3)
 - [Khan Academy videos](https://www.khanacademy.org/math/linear-algebra)
 - [Essence of Linear Algebra (videos)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- Answers for Poole ([3rd edition], [4th edition])
 - [42 - calc app capable of Eigenstuff and other linear algebra](http://math-42.com/)
 - [Subspaces, basis etc](http://www.math.wvu.edu/~diamond/Math251S14/basis.pdf)
 
