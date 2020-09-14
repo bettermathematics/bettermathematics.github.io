@@ -14,5 +14,5 @@ It showcases the power of abstraction and brings together several different topi
 - Course Secretary: [Mr Christopher Palmer](<chris.palmer@ed.ac.uk>) 
 - [Cheatsheet](resources/math3/halg/Algebra.pdf) from Owen
 - [Cheatsheet](resources/math3/halg/Algebra_Formula_Sheet.pdf) from Will
-- [Overview Sheet](https://github.com/smueksch/algebra-overview) from Sebastian
+- [Overview Sheet](resources/math3/halg/honours-algebra.pdf) from Sebastian ([Source on GitHub](https://github.com/smueksch/algebra-overview))
 - Prerequisites: [Fundamentals of Pure Mathematics (MATH08064)](/math2/#fpm) 
