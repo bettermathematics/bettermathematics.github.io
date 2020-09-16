@@ -6,4 +6,6 @@ semester: 1
 archived: false
 ---
 
+#### Resources
+
 - [Notes](resources/math4/pde/Partial Differential Equations.pdf) from Owen

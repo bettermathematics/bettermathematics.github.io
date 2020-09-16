@@ -7,13 +7,13 @@ archived: false
 pinned: false
 ---
 
-**Short Summary:**
+This course provides many of the underlying concepts and theory for Likelihood based statistical analyses.
 
-This course provides many of the underlying concepts and theory for Likelihood based statistical analyses, and **is required for further Year 3-5 courses in Statistics**.
+**This course is required for numerous further Year 3-5 courses in statistics.**
 
-Main topics: likelihood function, maximum likelihood estimation, likelihood ratio tests, Bayes theorem and posterior distribution, Iterative estimation of the MLE (Fishers' method of scoring), normal linear models.
+**Main topics**: likelihood function, maximum likelihood estimation, likelihood ratio tests, Bayes theorem and posterior distribution, Iterative estimation of the MLE (Fishers' method of scoring), normal linear models.
 
-**Reading List:** recommended but not essential
+#### Relevant reading available online
 
 - Wood, S. N., [*Core Statistics*](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_scopus_primary_607650732), Cambridge University Press, 2015.
 - Azzalini, A., [*Statistical Inference Based on the Likelihood*](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_askewsholts_vlebooks_9781351414470), Chapman & Hall, 1996.

@@ -6,4 +6,6 @@ semester: 2
 archived: false
 ---
 
+#### Resources
+
 - [Notes](/resources/math5/ggr/Geometry_of_GR.pdf) from Will

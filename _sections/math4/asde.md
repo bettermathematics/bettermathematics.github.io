@@ -6,4 +6,6 @@ semester: 1
 archived: false
 ---
 
-- Reading List: G.A. Pavliotis, [Stochastic Processes and Applications](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA21153510450002466), Springer (2014)
+#### Relevant reading available online
+
+- G.A. Pavliotis, [Stochastic Processes and Applications](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA21153510450002466), Springer (2014)
