@@ -6,7 +6,7 @@ semester: 1
 archived: false
 ---
 
-An introduction to linear algebra, mainly in \(\mathbb{R}^n\) but concluding with an introduction to abstract vector spaces. The principal topics are vectors, systems of linear equations, matrices, eigenvalues and eigenvectors and orthogonality. The important notions of linear independence, span and bases are introduced.  
+An introduction to linear algebra, mainly in \\( \\mathbb{R}^n \\) but concluding with an introduction to abstract vector spaces. The principal topics are vectors, systems of linear equations, matrices, eigenvalues and eigenvectors and orthogonality. The important notions of linear independence, span and bases are introduced.  
 
 **Useful Notes:**
 - [Matrix Mindmap](resources/math1/ila/Matrices.pdf) from Gesina
