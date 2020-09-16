@@ -261,7 +261,7 @@ blockquote {
     padding-left: 15px;
     margin-left: 15px
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
     font-weight: normal;
     /*text-transform: uppercase;*/
     display: inline-block;
@@ -270,6 +270,15 @@ h1, h2, h3, h4, h5, h6 {
     padding-bottom: 3px;
     margin-bottom: 10px;
     margin-top: 36px
+}
+h4, h5, h6 {
+    font-weight: bold;
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px solid rgb(241, 241, 241);
+    padding-bottom: 3px;
+    margin-bottom: 10px;
+    margin-top: 10px
 }
 #menu {
     width: 959px;
@@ -324,10 +333,10 @@ h1, h2, h3, h4, h5, h6 {
     /* Make buttons appear on their own line by default */
     /* See media query below for how we do it on one line */
     display: block;
-    
+
     /* For on-same-line styling */
     width: auto;
-    
+
     /* Prettify */
     font-size: 1.2em;
     text-align: center;
@@ -506,7 +515,7 @@ section .link-icon, section .edit-pencil {
     color: rgba(119, 119, 119, .7);
     opacity: 1;
 }
-/* 
+/*
 .link-icon, .edit-pencil {
     opacity: 0;
 } */
