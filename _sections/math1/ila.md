@@ -1,15 +1,12 @@
 ---
 title: Introduction to Linear Algebra
-course-acronym: ILA 
+course-acronym: ila
 year: 1
 semester: 1
 archived: false
 ---
 
-**Short Summary:**
-An introduction to linear algebra, mainly in \(\mathbb{R}^n\) but concluding with an introduction to abstract vector spaces.  
-  
-The principal topics are vectors, systems of linear equations, matrices, eigenvalues and eigenvectors and orthogonality. The important notions of linear independence, span and bases are introduced.  
+An introduction to linear algebra, mainly in \(\mathbb{R}^n\) but concluding with an introduction to abstract vector spaces. The principal topics are vectors, systems of linear equations, matrices, eigenvalues and eigenvectors and orthogonality. The important notions of linear independence, span and bases are introduced.  
 
 **Useful Notes:**
 - [Matrix Mindmap](resources/math1/ila/Matrices.pdf) from Gesina
@@ -22,5 +19,8 @@ The principal topics are vectors, systems of linear equations, matrices, eigenva
 - [42 - calc app capable of Eigenstuff and other linear algebra](http://math-42.com/)
 - [Subspaces, basis etc](http://www.math.wvu.edu/~diamond/Math251S14/basis.pdf)
 
-Textbook:
+**Textbook:**
 - [W. Keith Nicholson, *Linear Algebra with Applications*](https://lyryx.com/wp-content/uploads/2018/01/Nicholson-OpenLAWA-2018A.pdf)
+- Previously, [D. Poole, *Linear Algebra; A modern introduction*](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9781473715455&vid=44UOE_VU2&search_scope=default_scope&tab=default_tab&lang=en_US&context=PC) was used 
+
+
