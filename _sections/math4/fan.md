@@ -6,8 +6,6 @@ semester: 2
 archived: false
 ---
 
-- Course organiser: A Carbery
-- Course secretary: Christopher Palmer
 - Reading List: Fourier Analysis: An Introduction, by E.M. Stein and R. Shakarchi, Princeton University Press.
 
   Fourier Series and Integrals, by H. Dym and H. McKean, Academic Press.

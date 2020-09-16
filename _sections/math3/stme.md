@@ -7,15 +7,11 @@ archived: false
 pinned: false
 ---
 
-**Short Summary:** 
+**Short Summary:**
 
 This course provides many of the underlying concepts and theory for Likelihood based statistical analyses, and **is required for further Year 3-5 courses in Statistics**.
 
 Main topics: likelihood function, maximum likelihood estimation, likelihood ratio tests, Bayes theorem and posterior distribution, Iterative estimation of the MLE (Fishers' method of scoring), normal linear models.
-
-**Course Organiser:** [Dr Serveh Sharifi Far](<Serveh.Sharifi@ed.ac.uk>)
-
-**Course Secretary:** [Mr Christopher Palmer](<chris.palmer@ed.ac.uk>) 
 
 **Reading List:** recommended but not essential
 
@@ -25,17 +21,3 @@ Main topics: likelihood function, maximum likelihood estimation, likelihood rati
 - Christensen, R. et al., [*Bayesian Ideas and Data Analysis, An Introduction for Scientists and Statisticians*](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51249566650002466), Chapman & Hall, 2011.
 - Weisberg, S., [*Applied Linear Regression, 2nd Edition*](https://discovered.ed.ac.uk/permalink/f/gfso8q/44UOE_ALMA51134232160002466), Wiley, 2005.
 - Crawley, M. J. [*The R Book*](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_skillsoft_books24x7_bks00044455), Wiley, 2013.
-
-**Useful Notes:**
-
-- *insert useful notes here* 
-
-**Prerequisites:** 
-
-- [Several Variable Calculus and Differential Equations (MATH08063)](/math2/#svcde)
-- [Statistics (Year 2) (MATH08063)](/math2/#sta2) 
-
-**Exam Info:** *not yet published*
-
-**Other:**
-

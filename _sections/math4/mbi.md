@@ -6,8 +6,6 @@ semester: 1
 archived: false
 ---
 
-- Course organiser: Nikola Popovic
-- Course secretary: Alison Fairgrieve
 - Reading List: J.D. Murray. [Mathematical Biology I: An Introduction](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51147538400002466). (Interdisciplinary Applied Mathematics.) Springer-Verlag, 2007.
 
   L. Edelstein-Keshet. [Mathematical Models in Biology](https://discovered.ed.ac.uk/permalink/f/gfso8q/44UOE_ALMA51153329530002466). (Classics in  Applied Mathematics.) Society for Industrial and Applied Mathematics,  2005.

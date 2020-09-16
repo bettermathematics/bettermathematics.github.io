@@ -5,8 +5,7 @@ year: 4
 semester: 1
 archived: false
 ---
-- Course organiser: John Pearson
-- Course secretary: Alison Fairgrieve
+
 - Reading List: Francis Greene, [Entrepreneurship: Theory and Practice](https://discovered.ed.ac.uk/permalink/f/gfso8q/44UOE_ALMA51259690530002466), forthcoming, Palgrave.
 
 Avner Friedman and Walter Littman, [Industrial Mathematics: A Course in Solving Real-World Problems](https://discovered.ed.ac.uk/permalink/f/gfso8q/44UOE_ALMA51153274170002466), SIAM, 1994.

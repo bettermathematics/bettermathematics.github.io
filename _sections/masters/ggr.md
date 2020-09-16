@@ -6,4 +6,4 @@ semester: 2
 archived: false
 ---
 
-  - [Notes](/resources/math5/ggr/Geometry_of_GR.pdf) from Will
+- [Notes](/resources/math5/ggr/Geometry_of_GR.pdf) from Will
