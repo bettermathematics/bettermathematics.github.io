@@ -2,8 +2,6 @@
 title: Accelerated Algebra and Calculus for Direct Entry
 course-acronym: aac
 year: 2
-semester: 1
-archived: false
 ---
 
 #### Relevant reading available online

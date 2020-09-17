@@ -2,8 +2,6 @@
 title: Statistical Case Studies
 course-acronym: scs
 year: 4
-semester: 3
-archived: false
 ---
 
 #### Relevant reading available online

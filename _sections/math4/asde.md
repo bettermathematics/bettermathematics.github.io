@@ -2,8 +2,6 @@
 title: Applied Stochastic Differential Equations
 course-acronym: asde
 year: 4
-semester: 1
-archived: false
 ---
 
 #### Relevant reading available online

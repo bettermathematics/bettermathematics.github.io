@@ -1,10 +1,7 @@
 ---
 title: Financial Mathematics MATH10003
-year: 3
-semester: 2
 course-acronym: fim
-archived: false
-pinned: false
+year: 3
 ---
 
 Basic introduction to finance, to give students a broad perspective on the topic. Topics covered include: the value of money, interest rates, fair prices, financial markets in discrete and continuous time. It has a review of probability theory, introduction to the basic ideas of Stochastic calculus, and an overview of Actuarial Finance.

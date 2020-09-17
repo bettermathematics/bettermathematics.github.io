@@ -2,7 +2,6 @@
 title: Essentials in Analysis and Probability
 course-acronym: eap
 year: 4
-semester: 1
 ---
 
 #### Resources

@@ -2,8 +2,6 @@
 title: Linear Analysis
 course-acronym: lan
 year: 4
-semester: 1
-archived: false
 ---
 
 #### Relevant reading available online

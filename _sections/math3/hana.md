@@ -1,9 +1,7 @@
 ---
 title: Honours Analysis (MATH10068)
-year: 3
-semester: 2
 course-acronym: hana
-archived: false
+year: 3
 ---
 
 This course builds on ideas studied in the analysis portion of [Fundamentals of Pure Mathematics (MATH08064)](/math2/#fundamentals-of-pure-mathematics). The course introduces uniform convergence and the Reimann integral, and leads onto the abstract concept of a metric space.  Finally we look at some applications to solving equations via the fixed-point method, and at the rudiments of Fourier series.

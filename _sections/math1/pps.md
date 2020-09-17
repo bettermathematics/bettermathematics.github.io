@@ -2,7 +2,6 @@
 title: Proofs and Problem Solving
 course-acronym: pps
 year: 1
-semester: 2
 ---
 
 This course is designed to introduce and develop the fundamental skills needed for advanced study in Pure Mathematics.

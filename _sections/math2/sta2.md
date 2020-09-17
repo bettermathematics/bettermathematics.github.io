@@ -2,8 +2,6 @@
 title: Statistics (Year 2)
 course-acronym: sta2
 year: 2
-semester: 2
-archived: false
 ---
 
 #### Resources

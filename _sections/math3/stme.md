@@ -2,9 +2,6 @@
 title: Statistical Methodology (MATH10095)
 course-acronym: stme
 year: 3
-semester: 1
-archived: false
-pinned: false
 ---
 
 This course provides many of the underlying concepts and theory for Likelihood based statistical analyses.

@@ -2,9 +2,6 @@
 title: Statistical Computing (MATH10093)
 course-acronym: scomp
 year: 3
-semester: 2
-archived: false
-pinned: false
 ---
 
 Introduction to programming within the statistical package R. Discussion and investigation  of various computer intensive statistical algorithms, and their implementation.

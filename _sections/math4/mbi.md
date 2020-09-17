@@ -2,8 +2,6 @@
 title: Mathematical Biology
 course-acronym: mbi
 year: 4
-semester: 1
-archived: false
 ---
 
 #### Relevant reading available online

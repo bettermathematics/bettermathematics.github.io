@@ -2,7 +2,6 @@
 title: Introduction to Data Science
 course-acronym: ids
 year: 1
-archived: false
 links:
   - name: course website
     url: https://introds.org/

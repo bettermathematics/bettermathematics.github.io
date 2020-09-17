@@ -2,8 +2,6 @@
 title: Introduction to Linear Algebra
 course-acronym: ila
 year: 1
-semester: 1
-archived: false
 ---
 
 An introduction to linear algebra, mainly in \\( \\mathbb{R}^n \\) but concluding with an introduction to abstract vector spaces. The principal topics are vectors, systems of linear equations, matrices, eigenvalues and eigenvectors and orthogonality. The important notions of linear independence, span and bases are introduced.

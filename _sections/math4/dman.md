@@ -2,8 +2,6 @@
 title: Differentiable Manifolds
 course-acronym: dman
 year: 4
-semester: 1
-archived: false
 ---
 
 #### Resources
