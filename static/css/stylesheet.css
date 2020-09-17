@@ -569,7 +569,7 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
 
 li details { display: inline; }
 li details summary { cursor: pointer; }
-li details summary::-webkit-details-marker { display:none; }
+li details summary::-webkit-details-marker { display: none; }
 li details summary:focus { outline: none; }
 li details summary::before {
     font-size: 75%;
@@ -581,3 +581,6 @@ li details summary::before {
 li details summary::before { content: attr(data-open); }
 li details[open] { display: block; }
 li details[open] summary::before { content: attr(data-close); }
+
+#course-details summary { cursor: pointer; }
+#course-details summary:focus { outline: none; }

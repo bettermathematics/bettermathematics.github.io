@@ -22,9 +22,9 @@ There are a number of online services that the university provides, each serving
 | [**Office365**](https://www.office365.ed.ac.uk/)                                                             | University email, calendar, file sharing, cloud storage, Microsoft Teams         |
 | [**Piazza**](https://piazza.com/)                                                                            | Course discussion forum                                                          |
 
-- <sup id="note-1">[1]</sup>: <small>Some courses may have a separate course webpage where you will find teaching material.</small>
-- <sup id="note-2">[2]</sup>: <small>Creating a timetable for yourself on PATH does not finalize what your timetable will be – it simply allows you to come up with a rough idea for what you would like your schedule to look like. You must still meet with your personal tutor to officially enrol you on these courses.</small>
-- <sup id="note-3">[3]</sup>: <small>Please make sure you're looking at the DPT for the correct year! You can change the year in the URL, e.g. `20-21`</small>.
+- <sup id="note-1">[1]</sup> <small>Some courses may have a separate course webpage where you will find teaching material.</small>
+- <sup id="note-2">[2]</sup> <small>Creating a timetable for yourself on PATH does not finalize what your timetable will be – it simply allows you to come up with a rough idea for what you would like your schedule to look like. You must still meet with your personal tutor to officially enrol you on these courses.</small>
+- <sup id="note-3">[3]</sup> <small>Please make sure you're looking at the DPT for the correct year! You can change the year in the URL, e.g. `20-21`</small>.
 
 #### Library and study spaces
 
