@@ -566,3 +566,18 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     opacity: 1;
     color: black;
 }
+
+li details { display: inline; }
+li details summary { cursor: pointer; }
+li details summary::-webkit-details-marker { display:none; }
+li details summary:focus { outline: none; }
+li details summary::before {
+    font-size: 75%;
+    line-height: 0;
+    top: -0.1em;
+    position: relative;
+    vertical-align: baseline;
+}
+li details summary::before { content: attr(data-open); }
+li details[open] { display: block; }
+li details[open] summary::before { content: attr(data-close); }

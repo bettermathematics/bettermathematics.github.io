@@ -19,7 +19,7 @@ There are a number of online services that the university provides, each serving
 | [**Blackboard Learn**](https://www.learn.ed.ac.uk/auth-saml/saml/login?apId=_175_1)<sup>[[1]](#note-1)</sup> | Main virtual learning environment, course content, study materials, assessment   |
 | [**PATH**](https://path.is.ed.ac.uk/)<sup>[[2]](#note-2)</sup>                                               | Interactive degree programme builder, timetabling                                |
 | [**DPT/DRPS**](http://www.drps.ed.ac.uk/20-21/dpt/drpsindex.htm)<sup>[[3]](#note-3)</sup>                    | Official course and degree programme catalogue                                   |
-| [**Office365**](https://www.office365.ed.ac.uk/)                                                             | University email, calendar, file sharing                                         |
+| [**Office365**](https://www.office365.ed.ac.uk/)                                                             | University email, calendar, file sharing, cloud storage, Microsoft Teams         |
 | [**Piazza**](https://piazza.com/)                                                                            | Course discussion forum                                                          |
 
 - <sup id="note-1">[1]</sup>: <small>Some courses may have a separate course webpage where you will find teaching material.</small>
