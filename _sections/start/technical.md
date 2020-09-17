@@ -28,4 +28,10 @@ Make sure that the versions of `R` and `RStudio` that you install are compatible
 
 #### Git / GitHub
 
-TODO
+Git is a system that allows you to keep better track of different versions of your code. It is not necessary for most mathematics courses, but is a useful way of backing up your code. Through GitHub, you can also showcase any interesting projects to potential employers!
+
+Git and GitHub are extre useful when you are working on large group projects with people collaborating on different parts of code.
+
+To get started, read [this introduction blog post by HubSpot](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).
+
+Also, Better Mathematics runs on a service offered by GitHub, called GitHub pages. While you don't need to know much about Git and GitHub to contribute to the website, knowledge of these tools will help if you want to add any cool features.
