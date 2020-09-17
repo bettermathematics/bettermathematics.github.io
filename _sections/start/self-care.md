@@ -97,7 +97,7 @@ title: 4. Self Care
       <ul>
        <li><a href="https://www.nhs.uk/live-well/eat-well/20-tips-to-eat-well-for-less/">20 tips for eating well cheaply from the NHS</a></li>
        <li><a href="https://budgetbytes.com">BudgetBytes</a>: Ditch Deliveroo, save money by cooking yourself</li>
-       <li><a href="https://www.topuniversities.com/blog/brain-food-what-eat-when-revising">Brain Food: What to eat when revising</li>
+       <li><a href="https://www.topuniversities.com/blog/brain-food-what-eat-when-revising">Brain Food</a>: What to eat when revising</li>
        <li><a href="https://www.thestudentfoodproject.com">The Student Food Project</a>: quick, cheap and easy student recipes</li>
        <li><a href="https://www.savethestudent.org/save-money/food-drink">55 ways to save money on food</a></li>
        <li><a href="https://www.ed.ac.uk/files/atoms/files/food_shopping_guide_2018.pdf">Edinburgh food shopping guide</a></li>
