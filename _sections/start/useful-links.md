@@ -18,7 +18,7 @@ There are a number of online services that the university provides, each serving
 | [**EUCLID**](https://www.star.euclid.ed.ac.uk/urd/sits.urd/run/siw_sso.token)                                | Academic record, documents, enrolment, immigration, contact and personal details |
 | [**Blackboard Learn**](https://www.learn.ed.ac.uk/auth-saml/saml/login?apId=_175_1)<sup>[[1]](#note-1)</sup> | Main virtual learning environment, course content, study materials, assessment   |
 | [**PATH**](https://path.is.ed.ac.uk/)<sup>[[2]](#note-2)</sup>                                               | Interactive degree programme builder, timetabling                                |
-| [**DPT**](http://www.drps.ed.ac.uk/20-21/dpt/drpsindex.htm)<sup>[[3]](#note-3)</sup>                         | Official course and degree programme catalogue                                   |
+| [**DPT/DRPS**](http://www.drps.ed.ac.uk/20-21/dpt/drpsindex.htm)<sup>[[3]](#note-3)</sup>                         | Official course and degree programme catalogue                                   |
 | [**Office365**](https://www.office365.ed.ac.uk/)                                                             | University email, calendar, file sharing                                         |
 | [**Piazza**](https://piazza.com/)                                                                            | Course discussion forum                                                          |
 
