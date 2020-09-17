@@ -2,8 +2,6 @@
 title: Calculus and its Applications
 course-acronym: cap
 year: 1
-semester: 2
-archived: false
 links:
   - name: webassign
     url: https://www.webassign.net/login.html

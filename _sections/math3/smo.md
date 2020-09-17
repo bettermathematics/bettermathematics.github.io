@@ -1,9 +1,7 @@
 ---
 title: Stochastic Modelling (MATH10007)
-year: 3
-semester: 1
 course-acronym: smo
-archived: false
+year: 3
 ---
 
 An advanced probability course dealing with discrete and continuous time Markov chains.  Markov chains has countless applications in many fields raging from finance, operation research and optimization to biology, chemistry and physics. The course covers the fundamental theory, and provides many examples.

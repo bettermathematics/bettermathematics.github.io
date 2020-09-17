@@ -1,10 +1,7 @@
 ---
 title: Linear Programming, Modelling, and Solution (MATH10073)
-year: 3
-semester: 2
 course-acronym: lpms
-archived: false
-pinned: false
+year: 3
 ---
 
 Linear programming (LP) is the fundamental modelling technique in optimal decision-making. This course will introduce the concepts of LP modelling, explore the mathematical properties of general LP problems and study the theory of the simplex algorithm as a solution technique. Theoretical understanding / hand calculation will be assessed via the written examination.

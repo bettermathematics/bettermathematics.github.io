@@ -1,10 +1,7 @@
 ---
 title: Introduction to Number Theory (MATH10071)
-year: 3
-semester: 2
 course-acronym: int
-archived: false
-pinned: false
+year: 3
 ---
 
 The main theme of this course is the interplay between number theory and rings.

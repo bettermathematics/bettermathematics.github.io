@@ -2,8 +2,6 @@
 title: Geometry of General Relativity
 course-acronym: ggr
 year: 5
-semester: 2
-archived: false
 ---
 
 #### Resources

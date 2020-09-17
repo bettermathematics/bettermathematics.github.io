@@ -2,8 +2,6 @@
 title: Fundamentals of Pure Mathematics
 course-acronym: fpm
 year: 2
-semester: 2
-archived: false
 ---
 
 #### Resources

@@ -2,8 +2,6 @@
 title: Probability
 course-acronym: prob
 year: 2
-semester: 1
-archived: false
 ---
 
 #### Resources

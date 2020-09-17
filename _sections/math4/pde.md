@@ -2,8 +2,6 @@
 title: Introduction to Partial Differential Equations
 course-acronym: pde
 year: 4
-semester: 1
-archived: false
 ---
 
 #### Resources

@@ -2,8 +2,6 @@
 title: Entrepreneurship in the Mathematical Sciences
 course-acronym: ems
 year: 4
-semester: 1
-archived: false
 ---
 
 #### Relevant reading available online

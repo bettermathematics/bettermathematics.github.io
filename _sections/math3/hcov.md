@@ -1,9 +1,7 @@
 ---
 title: Honours Complex Variables (MATH10068)
-year: 3
-semester: 2
 course-acronym: hcov
-archived: false
+year: 3
 ---
 
 This course has a "Skills" portion which involves mathematical reading and writing (i.e. \\(\LaTeX\\), applicable to writing technical and non technical reports. Students will be required to complete a project researching a topic connected to complex numbers / complex analysis, producing a written report.

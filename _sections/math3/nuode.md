@@ -2,8 +2,6 @@
 title: Numerical Ordinary Differential Equations and Applications (MATH10060)
 course-acronym: nuode
 year: 3
-semester: 2
-archived: false
 ---
 
 Most ordinary differential equations (ODEs) lack solutions that can be given in explicit analytical formulas. Numerical methods for ODEs allow for the computation of approximate solutions and are essential for their quantitative study. In some cases, a numerical method can facilitate qualitative analysis as well, such as probing the long term solution behaviour. As well as studying the theory, the course has a strong emphasis on the practical aspects and implementation of these methods (in Python) to tackle modern applications of ODEs.

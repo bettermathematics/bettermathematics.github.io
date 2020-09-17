@@ -2,8 +2,6 @@
 title: Advanced Methods of Applied Mathematics
 course-acronym: amam
 year: 4
-semester: 1
-archived: false
 ---
 
 #### Relevant reading available online

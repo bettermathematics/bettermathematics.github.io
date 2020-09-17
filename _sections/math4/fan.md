@@ -2,8 +2,6 @@
 title: Fourier Analysis
 course-acronym: fan
 year: 4
-semester: 2
-archived: false
 ---
 
 #### Relevant reading available online

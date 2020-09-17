@@ -1,9 +1,7 @@
 ---
 title: Honours Differential Equations (MATH10066)
-year: 3
 course-acronym: hdeq
-archived: false
-pinned: false
+year: 3
 ---
 
 This course has a "Skills" portion which involves programming in Python, in particular using SciPy ODE solvers. Activities include: plotting phase portraits of 1st order ODEs, exploring dynamical non-linear systems, implementing numerical methods (Euler, Heun, etc), Fourier coefficient computation, plots of 2D functions and animations of PDEs.
