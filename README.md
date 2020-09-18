@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="/static/img/puzzle.png" width="75px" alt="Better Mathematics (Logo)">
   <h1 align="center">
-    <img src="/static/img/bettermath-title.png" width="700px" alt="Better Mathematics">
+    <img src="/static/img/bettermath-title-llogo.png" width="800px" alt="Better Mathematics">
   </h1>
 </p>
 
