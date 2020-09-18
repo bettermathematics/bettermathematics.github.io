@@ -13,4 +13,4 @@ title: 2. COVID Resources
     </blockquote>
   </details>
 - [The Atlantic COVID-19 coverage](https://www.theatlantic.com/category/coronavirus-covid-19/) has been consistently excellent and is free to access.
-- [Financial Times - Coronavirus tracked](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938), free to access visual data on the coronavirus pandemic.
+- Visit [Financial Times - Coronavirus tracked](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938) for visual data on the coronavirus pandemic, this is free to access.
