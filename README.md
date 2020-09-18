@@ -1,9 +1,10 @@
 <p align="center">
   <h1 align="center">
-    <img src="/static/img/puzzle.png" width="75px" alt="Better Mathematics (Logo)">
     <img src="/static/img/bettermath-title.png" width="75%" alt="Better Mathematics">
   </h1>
 </p>
+
+<img src="/static/img/puzzle.png" width="75px" align="right" alt="Better Mathematics (Logo)">
 
 <p align="center">
   <em>Better Mathematics is a collaborative platform where staff and students of all years can share academic resources for courses offered by the <a href="https://www.maths.ed.ac.uk/school-of-mathematics">School of Mathematics at the University of Edinburgh</a>.</em>
