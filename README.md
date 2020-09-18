@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="/static/img/puzzle.png" width="75px" alt="Better Mathematics (Logo)">
   <h1 align="center">
+    <img src="/static/img/puzzle.png" width="75px" alt="Better Mathematics (Logo)">
     <img src="/static/img/bettermath-title.png" width="75%" alt="Better Mathematics">
   </h1>
 </p>
