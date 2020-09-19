@@ -34,4 +34,4 @@ Git and GitHub are extra useful when you are working on large group projects wit
 
 To get started, read [this introduction blog post by HubSpot](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).
 
-Also, Better Mathematics runs on a service offered by GitHub, called GitHub pages. While you don't need to know much about Git and GitHub to contribute to the website, knowledge of these tools will help if you want to add any cool features.
+Also, Better Mathematics runs on a service offered by GitHub, called GitHub Pages. While you don't need to know much about Git and GitHub to contribute to the website, knowledge of these tools will help if you want to add any cool features.
