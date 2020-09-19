@@ -9,3 +9,9 @@ It showcases the power of abstraction and brings together several different topi
 **This is a core course for Honours degrees involving mathematics.**
 
 **Main topics**: Linear Algebra, Rings and Modules, Determinants and Eigenvalues, Inner Product Spaces, and Jordan Normal Form.
+
+#### Resources
+
+- [Cheatsheet](resources/math3/halg/Algebra.pdf) from Owen
+- [Cheatsheet](resources/math3/halg/Algebra_Formula_Sheet.pdf) from Will
+- [Overview Sheet](https://github.com/smueksch/algebra-overview) from Sebastian
