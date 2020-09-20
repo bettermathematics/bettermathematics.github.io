@@ -1,7 +1,5 @@
 # Contributing to Better Mathematics
 
-<img src="./static/img/puzzle.png" width="75px" align="right"/>
-
 As Better Mathematics is an open source website, any contributions from the community are greatly appreciated and encouraged. This document details the guidelines for making contributions to Better Mathematics.
 
 At first, the process of contributing might seem a bit daunting, but it really isn't! This guide aims to be as clear as possible and give step-by-step instructions on how to contribute. The more you do it, the easier it gets!
@@ -395,4 +393,6 @@ If you are more proficient with git, feel free to use the command line interface
    See a typo? Or a broken link? Fix it please! Found a cool video on Laplace transforms? Share it!
 
    If you need any help, [drop us an email](mailto:bettermathematicsuoe@gmail.com) or [create an issue](https://github.com/bettermathematics/bettermathematics.github.io/issues/new) :blush:
+
+   <img src="./static/img/puzzle.png" width="75px"/>
 </p>
