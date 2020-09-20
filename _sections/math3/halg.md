@@ -1,5 +1,5 @@
 ---
-title: Honours Algebra (MATH10069)
+title: Honours Algebra
 course-acronym: halg
 year: 3
 ---

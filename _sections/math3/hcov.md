@@ -1,5 +1,5 @@
 ---
-title: Honours Complex Variables (MATH10068)
+title: Honours Complex Variables
 course-acronym: hcov
 year: 3
 ---

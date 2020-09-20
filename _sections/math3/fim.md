@@ -1,5 +1,5 @@
 ---
-title: Financial Mathematics MATH10003
+title: Financial Mathematics
 course-acronym: fim
 year: 3
 ---

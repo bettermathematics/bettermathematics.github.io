@@ -1,5 +1,5 @@
 ---
-title: Statistical Methodology (MATH10095)
+title: Statistical Methodology
 course-acronym: stme
 year: 3
 ---

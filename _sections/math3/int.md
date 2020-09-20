@@ -1,5 +1,5 @@
 ---
-title: Introduction to Number Theory (MATH10071)
+title: Introduction to Number Theory
 course-acronym: int
 year: 3
 ---
