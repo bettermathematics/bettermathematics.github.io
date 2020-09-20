@@ -193,11 +193,11 @@ And that's you done! Someone will review your pull request and merge your change
 
    Once you've added the course to the `_data/courses.yml` course, you need to make a Markdown file for the course.
 
-   Navigate to the sub-folder under `resources` for the year your course typically runs in, and create a Markdown file using the lowercase course acronym.
+   Navigate to the sub-folder under [`_sections`](https://github.com/bettermathematics/bettermathematics.github.io/tree/master/_sections) for the year your course typically runs in, and create a Markdown file using the lowercase course acronym.
 
    > e.g. If you were adding the Statistics (Year 2) course, which has acronym `sta2`, then you would create a Markdown file at the following path:
    >
-   > `resources/math2/sta2.md`
+   > `_sections/math2/sta2.md`
 
    Once you've made the file, copy the below template and modify the `title`, `course-acronym` and `year` fields so that they match the details in `_data/courses.yml`. Note that `course-acronym` here is actually the lowercase acronym.
 
@@ -252,9 +252,9 @@ And that's you done! Someone will review your pull request and merge your change
 
 3. **Create a resource sub-folder for the course.**
 
-   The last step is to create a sub-folder for the course in the `resources` folder. This folder is where others will be able to add resources such as cheatsheets and notes for the course you added.
+   The last step is to create a sub-folder for the course in the [`resources`](https://github.com/bettermathematics/bettermathematics.github.io/tree/master/resources) folder. This folder is where others will be able to add resources such as cheatsheets and notes for the course you added.
 
-   On GitHub, navigate to `resources/mathX`, where `X` is the year the course typically runs in. Once in this folder, you will need to [create a new folder]() using the lowercase course acronym as the name.
+   On GitHub, navigate to `resources/mathX`, where `X` is the year the course typically runs in. Once in this folder, you will need to [create a new folder](#creating-a-new-folder) using the lowercase course acronym as the name.
 
 If you are modifying details for an existing course, make sure you do it in both `_data/courses.yml` and the Markdown file for the course!
 
