@@ -394,7 +394,7 @@ If you are more proficient with git, feel free to use the command line interface
 </p>
 
 <p align="center">
-   If you need any help, [drop us an email](mailto:bettermathematicsuoe@gmail.com) or [create an issue](https://github.com/bettermathematics/bettermathematics.github.io/issues/new) :blush:
+   If you need any help, <a href="mailto:bettermathematicsuoe@gmail.com">drop us an email</a> or <a href="https://github.com/bettermathematics/bettermathematics.github.io/issues/new">create an issue</a> :blush:
 </p>
 
 <p align="center">
