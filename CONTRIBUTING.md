@@ -113,6 +113,8 @@ And that's you done! Someone will review your pull request and merge your change
 
    The [`_data/courses.yml`](https://github.com/bettermathematics/bettermathematics.github.io/blob/eonu/contributing/_data/courses.yml) file contains all of the necessary information to define a course (in YAML format). It is important that you enter the details for your new course correctly, as the website automatically generates the section for each course based on this information.
 
+   **Please make sure that the course you are adding does not already exist!**
+
    Let's have a look at the YAML entry for the _Statistics (Year 2)_ course:
 
    <details>
