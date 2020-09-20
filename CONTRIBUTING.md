@@ -115,6 +115,12 @@ And that's you done! Someone will review your pull request and merge your change
 
    **Please make sure that the course you are adding does not already exist!**
 
+   > **Note**: We are aiming to write a script that will extract the course information from a spreadsheet file that is provided by the School of Mathematics every September 1st on the SharePoint drive. If anyone is interested in helping out with this script, please make an issue or [contact us](mailto:bettermathematicsuoe@gmail.com).
+   >
+   > This script will help eliminate the need to manually copy the information for each new course. The script will also come in handy because details for already existing courses may change from time to time. The script would ideally be able to automatically generate the entire `_data/courses.yml` file from the data in the spreadsheet.
+   >
+   > Once this script is working, there will probably be no need for you to ever have to manually add a new course. For now though, there is a possibility that we missed a course when we were adding them, so continue reading to learn how to add or modify a course.
+
    Let's have a look at the YAML entry for the _Statistics (Year 2)_ course:
 
    <details>
@@ -141,12 +147,6 @@ And that's you done! Someone will review your pull request and merge your change
    </details>
 
    We'll now go through each of the keys above and explain what they mean and what values you should put for each one. Most of the information can be found on the [DRPS]( http://www.drps.ed.ac.uk/) page for that specific course.
-
-   > **Note**: We are aiming to write a script that will extract the course information from a spreadsheet file that is provided by the School of Mathematics every September 1st on the SharePoint drive. If anyone is interested in helping out with this script, please make an issue or [contact us](mailto:bettermathematicsuoe@gmail.com).
-   >
-   > This script will help eliminate the need to manually copy the information for each new course. The script will also come in handy because details for already existing courses may change from time to time. The script would ideally be able to automatically generate the entire `_data/courses.yml` file from the data in the spreadsheet.
-   >
-   > Once this script is working, there will probably be no need for you to ever have to manually add a new course. For now though, there is a possibility that we missed a course when we were adding them, so continue reading to learn how to add or modify a course.
 
    <details>
       <summary>
