@@ -115,7 +115,7 @@ And that's you done! Someone will review your pull request and merge your change
 
    **Please make sure that the course you are adding does not already exist!**
 
-   > **Note**: We are aiming to write a script that will extract the course information from a spreadsheet file that is provided by the School of Mathematics every September 1st on the SharePoint drive. If anyone is interested in helping out with this script, please make an issue or [contact us](mailto:bettermathematicsuoe@gmail.com).
+   > **Note**: We are aiming to write a script that will extract the course information from a spreadsheet file that is provided by the School of Mathematics every September 1st on the [SharePoint](https://uoe.sharepoint.com/sites/schoolofmaths/students/SitePages/Home.aspx) drive. If anyone is interested in helping out with this script, please make an issue or [contact us](mailto:bettermathematicsuoe@gmail.com).
    >
    > This script will help eliminate the need to manually copy the information for each new course. The script will also come in handy because details for already existing courses may change from time to time. The script would ideally be able to automatically generate the entire `_data/courses.yml` file from the data in the spreadsheet.
    >
@@ -130,7 +130,6 @@ And that's you done! Someone will review your pull request and merge your change
 
    ```yaml
    sta2:
-       acronym: Sta2
        credits: 10
        cw_exam_ratio:
          - 20
@@ -146,7 +145,7 @@ And that's you done! Someone will review your pull request and merge your change
    ```
    </details>
 
-   We'll now go through each of the keys above and explain what they mean and what values you should put for each one. Most of the information can be found on the [DRPS]( http://www.drps.ed.ac.uk/) page for that specific course.
+   We'll now go through each of the keys above and explain what they mean and what values you should put for each one. Most of the information can be found on the [DRPS]( http://www.drps.ed.ac.uk/) page for that specific course. Note that the information available on the DRPS is the same as the information that will be shared by the School of Mathematics in the [SharePoint](https://uoe.sharepoint.com/sites/schoolofmaths/students/SitePages/Home.aspx) drive.
 
    <details>
       <summary>
@@ -155,42 +154,38 @@ And that's you done! Someone will review your pull request and merge your change
 
    1. Top-level course acronym - This should be the acronym of the course in lowercase. All of the other keys should go under this one.
 
-   2. `acronym` - This should be the same as the course acronym, but capitalized appropriately.
+   2. `credits` - The number of SCQF credits.
 
-      >  e.g. `sta2` might become `Sta2`, or `bdan` might become `BDAn`.
+   3. `cw_exam_ratio` - The coursework-exam ratio for the course. This key takes a list of two values.
 
-   3. `credits` - The number of SCQF credits.
-
-   4. `cw_exam_ratio` - The coursework-exam ratio for the course. This key takes a list of two values.
-
-   5. `delivery` - The semester that the course is delivered in (as a string). This will be one of:
+   4. `delivery` - The semester that the course is delivered in (as a string). This will be one of:
 
       1. `S1` - runs in the first semester,
       2. `S2` - runs in the second semester,
       3. `YR` - runs in both the first and second semester (year-long courses, typically undergraduate dissertations),
       4. `B5+` - runs over summer (typically Masters dissertations).
 
-   6. `delivery_ordinal` - A numerical identifier for the `delivery` semester. This is simply the position in the above list.
+   5. `delivery_ordinal` - A numerical identifier for the `delivery` semester. This is simply the position in the above list.
 
       >  e.g. If `delivery` was `S2`, then `delivery_ordinal` would be `2`. If it was `B5+`, then `delivery_ordinal` would be `4`.
 
-   7. `diet` - The month(s) that the exam for the course runs in. This will be one of:
+   6. `diet` - The month(s) that the exam for the course runs in. This will be one of:
 
       - `December` - if the exam is at the end of the first semester,
       - `April/May` - if the exam is at the end of the second semester,
       - `''` - if the course does not have an exam.
 
-   8. `euclid_code` - The course code (found on the DRPS).
+   7. `euclid_code` - The course code (found on the DRPS).
 
       >  e.g. `MATH11043`
 
-   9. `euclid_url` - The URL for the DRPs page for the course (make sure it's for the current year!).
+   8. `euclid_url` - The URL for the DRPs page for the course (make sure it's for the current year!).
 
-   10. `level` - The SCQF credit level.
+   9. `level` - The SCQF credit level.
 
-   11. `name` - The full name of the course.
+   10. `name` - The full name of the course.
 
-   12. `year` - The year that the course is typically taken in.
+   11. `year` - The year that the course is typically taken in.
    </details>
 
    Add your course entry anywhere under the top-level `list` dictionary. Preferably, courses should be sorted chronologically based on the date they were uploaded, so putting it at the top would be best.

@@ -6,7 +6,6 @@ pinned: true
 
 - [Semester dates](https://www.ed.ac.uk/semester-dates)
 - [Past papers](https://exampapers.ed.ac.uk/discover?filtertype=author&filter_relational_operator=equals&filter=Mathematics%2C+School+of)
-- [School of Mathematics document sharing](https://uoe.sharepoint.com/sites/schoolofmaths/students/SitePages/Home.aspx)
 
 #### Online services
 
@@ -19,7 +18,8 @@ There are a number of online services that the university provides, each serving
 | [**Blackboard Learn**](https://www.learn.ed.ac.uk/auth-saml/saml/login?apId=_175_1)<sup>[[1]](#note-1)</sup> | Main virtual learning environment, course content, study materials, assessment   |
 | [**PATH**](https://path.is.ed.ac.uk/)<sup>[[2]](#note-2)</sup>                                               | Interactive degree programme builder, timetabling                                |
 | [**DPT/DRPS**](http://www.drps.ed.ac.uk/20-21/dpt/drpsindex.htm)<sup>[[3]](#note-3)</sup>                    | Official course and degree programme catalogue                                   |
-| [**Office365**](https://www.office365.ed.ac.uk/)                                                             | University email, calendar, file sharing, cloud storage, Microsoft Teams         |
+| [**Office365**](https://www.office365.ed.ac.uk/)                                                             | University email, calendar, cloud storage, Microsoft Teams                       |
+| [**SharePoint**](https://uoe.sharepoint.com/sites/schoolofmaths/students/SitePages/Home.aspx)                | School-wide file sharing                                                         |
 | [**Piazza**](https://piazza.com/)                                                                            | Course discussion forum                                                          |
 
 - <sup id="note-1">[1]</sup> <small>Some courses may have a separate course webpage where you will find teaching material.</small>
