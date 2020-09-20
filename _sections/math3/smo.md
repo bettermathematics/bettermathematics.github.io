@@ -1,5 +1,5 @@
 ---
-title: Stochastic Modelling (MATH10007)
+title: Stochastic Modelling
 course-acronym: smo
 year: 3
 ---

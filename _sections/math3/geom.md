@@ -1,5 +1,5 @@
 ---
-title: Geometry (MATH10074)
+title: Geometry
 course-acronym: geom
 year: 3
 ---

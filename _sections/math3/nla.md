@@ -1,5 +1,5 @@
 ---
-title: Numerical Linear Algebra (MATH10098)
+title: Numerical Linear Algebra
 course-acronym: nla
 year: 3
 ---

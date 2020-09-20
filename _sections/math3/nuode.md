@@ -1,5 +1,5 @@
 ---
-title: Numerical Ordinary Differential Equations and Applications (MATH10060)
+title: Numerical Ordinary Differential Equations and Applications
 course-acronym: nuode
 year: 3
 ---

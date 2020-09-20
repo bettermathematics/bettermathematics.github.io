@@ -1,5 +1,5 @@
 ---
-title: Honours Differential Equations (MATH10066)
+title: Honours Differential Equations
 course-acronym: hdeq
 year: 3
 ---
