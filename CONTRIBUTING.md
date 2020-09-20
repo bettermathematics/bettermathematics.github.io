@@ -1,10 +1,12 @@
 # Contributing to Better Mathematics
 
-It might seem like a challenging task to contribute to the Better Mathematics repository. But it really isn't! I'll break down the process into simple steps that you can follow.
+As Better Mathematics is an open source website, any contributions from the community are greatly appreciated and encouraged. This document details the guidelines for making contributions to Better Mathematics.
+
+At first, the process of contributing might seem a bit daunting, but it really isn't! This guide aims to be as clear as possible and give step-by-step instructions on how to contribute. The more you do it, the easier it gets!
 
 <details>
 	<summary>
-		<b>Click here to see the table of contents!</b>
+		<b>Click here to see the table of contents. You can use it to jump to any relevant section.</b>
 	</summary>
 
 - [Getting started](#getting-started)
@@ -40,7 +42,7 @@ If you are looking to add a new course or modify details for an already existing
 
 ## Types of contributions
 
-TODO
+There are a number of different kinds of contributions you can make to Better Mathematics. In this section we will explain the steps involved in each one.
 
 ### Adding or modifying shared resources
 
