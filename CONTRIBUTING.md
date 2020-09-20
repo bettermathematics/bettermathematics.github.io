@@ -391,8 +391,12 @@ If you are more proficient with git, feel free to use the command line interface
 
 <p align="center">
    See a typo? Or a broken link? Fix it please! Found a cool video on Laplace transforms? Share it!
+</p>
 
+<p align="center">
    If you need any help, [drop us an email](mailto:bettermathematicsuoe@gmail.com) or [create an issue](https://github.com/bettermathematics/bettermathematics.github.io/issues/new) :blush:
+</p>
 
+<p align="center">
    <img src="./static/img/puzzle.png" width="75px"/>
 </p>
