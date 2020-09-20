@@ -111,7 +111,7 @@ And that's you done! Someone will review your pull request and merge your change
 
 1. **Add the course to the `_data/courses.yml` file.**
 
-   The `_data/courses.yml` file contains all of the necessary information to define a course (in YAML format). It is important that you enter the details for your new course correctly, as the website automatically generates the section for each course based on this information.
+   The [`_data/courses.yml`](https://github.com/bettermathematics/bettermathematics.github.io/blob/eonu/contributing/_data/courses.yml) file contains all of the necessary information to define a course (in YAML format). It is important that you enter the details for your new course correctly, as the website automatically generates the section for each course based on this information.
 
    Let's have a look at the YAML entry for the _Statistics (Year 2)_ course:
 
@@ -191,7 +191,7 @@ And that's you done! Someone will review your pull request and merge your change
 
 2. **Create the course Markdown file.**
 
-   Once you've added the course to the `_data/courses.yml` course, you need to make a Markdown file for the course.
+   Once you've added the course to the `_data/courses.yml` file, you need to make a Markdown file for the course.
 
    Navigate to the sub-folder under [`_sections`](https://github.com/bettermathematics/bettermathematics.github.io/tree/master/_sections) for the year your course typically runs in, and create a Markdown file using the lowercase course acronym.
 
