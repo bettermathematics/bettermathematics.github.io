@@ -113,7 +113,10 @@ And that's you done! Someone will review your pull request and merge your change
 
    Let's have a look at the YAML entry for the _Statistics (Year 2)_ course:
 
-   **Click here to see the example YAML entry.**
+   <details>
+      <summary>
+       <b>Click here to see the example YAML entry.</b>
+      </summary>
 
    ```yaml
    sta2:
@@ -131,10 +134,14 @@ And that's you done! Someone will review your pull request and merge your change
        name: Statistics (Year 2)
        year: 2
    ```
+   </details>
 
    We'll now go through each of the keys above and explain what they mean and what values you should put for each one. Most of the information can be found on the [DRPS]( http://www.drps.ed.ac.uk/) page for that specific course.
 
-   **Click here to see an explanation of each key.**
+   <details>
+      <summary>
+       <b>Click here to see an explanation of each key.</b>
+      </summary>
 
    1. Top-level course acronym - This should be the acronym of the course in lowercase. All of the other keys should go under this one.
 
@@ -174,6 +181,7 @@ And that's you done! Someone will review your pull request and merge your change
    11. `name` - The full name of the course.
 
    12. `year` - The year that the course is typically taken in.
+   </details>
 
    Add your course entry anywhere under the top-level `list` dictionary. Preferably, courses should be sorted chronologically based on the date they were uploaded, so putting it at the top would be best.
 
@@ -191,7 +199,10 @@ And that's you done! Someone will review your pull request and merge your change
 
    Once you've made the file, copy the below template and modify the `title`, `course-acronym` and `year` fields so that they match the details in `_data/courses.yml`. Note that `course-acronym` here is actually the lowercase acronym.
 
-   **Click here to view the Markdown file template.**
+   <details>
+      <summary>
+       <b>Click here to view the Markdown file template.</b>
+      </summary>
 
    ```markdown
    ---
@@ -208,12 +219,16 @@ And that's you done! Someone will review your pull request and merge your change
 
    None yet!
    ```
+   </details>
 
    You should also add a summary and main topics. If you have any resources you'd like to share, add them under the `Resources` heading.
 
    You can also add special links for the course, which will appear next to the course title on the Better Mathematics section.
 
-   **Click here to see an example of adding links.**
+   <details>
+      <summary>
+       <b>Click here to see an example of adding links.</b>
+      </summary>
 
    > e.g. This is how you would add a link for the _Calculus and its Applications_ course.
    >
@@ -231,6 +246,7 @@ And that's you done! Someone will review your pull request and merge your change
    > This would appear like this on the Better Mathematics website:
    >
    > ![link](./static/img/contributing/link.png)
+   </details>
 
 3. **Create a resource sub-folder for the course.**
 
@@ -252,7 +268,7 @@ To add or modify a feature on the website, you'll need to first make sure you ca
 
 To make a new branch, run the following command:
 
-```console
+```bash
 git checkout -b username/short-description
 ```
 
@@ -266,7 +282,7 @@ Once in your new branch, you can make any changes you want. When you're finished
 
 If you're satisfied, then you can make a commit and push it to your fork which is hosted on your GitHub account.
 
-```console
+```bash
 # Add all of the files to be staged for a commit
 git add .
 
@@ -321,7 +337,7 @@ Once you have created a fork, you will need to _clone_ the fork, which basically
 
 You can do this using the following command in your terminal, (replacing `<username>` with your GitHub username):
 
-```console
+```bash
 git clone https://github.com/<username>/bettermathematics.github.io.git
 ```
 
@@ -329,7 +345,7 @@ git clone https://github.com/<username>/bettermathematics.github.io.git
 
 Next, you will need to install all of the dependencies for Better Mathematics. You can do this with the following command in your terminal:
 
-```console
+```bash
 bundle install
 ```
 
@@ -341,7 +357,7 @@ One package (or _gem_ in Ruby-speak) that should have been installed is [Jekyll]
 
 To test that everything works now, run the following command to launch the web server:
 
-```console
+```bash
 bundle exec jekyll serve
 ```
 
@@ -349,7 +365,7 @@ Now you can type `localhost:4000` in the address bar on any browser, and you sho
 
 Normally, you will have to restart the server any time you edit a file. However, you can also run the following launch command which will keep watching for any changes, and automatically restart the server if there are any:
 
-```console
+```bash
 bundle exec jekyll serve --watch
 ```
 
