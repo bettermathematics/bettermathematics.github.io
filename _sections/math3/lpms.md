@@ -1,5 +1,5 @@
 ---
-title: Linear Programming, Modelling, and Solution (MATH10073)
+title: Linear Programming, Modelling, and Solution
 course-acronym: lpms
 year: 3
 ---

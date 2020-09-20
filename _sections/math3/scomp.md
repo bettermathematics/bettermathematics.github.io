@@ -1,5 +1,5 @@
 ---
-title: Statistical Computing (MATH10093)
+title: Statistical Computing
 course-acronym: scomp
 year: 3
 ---
