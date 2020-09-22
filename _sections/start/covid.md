@@ -2,7 +2,7 @@
 year: start
 title: 2. COVID Resources
 ---
-- [Scottish Government - Coronavirus in Scotland](https://www.gov.scot/coronavirus-covid-19/)<br/> In general, make sure you are reading sources that are specific to Scotland rather than the UK in general, as sometimes there are different rules for the rest of the UK.<br/>Please refer, in particular, to [new guidance](https://www.gov.scot/publications/coronavirus-covid-19-phase-3-staying-safe-and-protecting-others/pages/overview/) released on 22nd September.
+- [Scottish Government - Coronavirus in Scotland](https://www.gov.scot/coronavirus-covid-19/)<br/> In general, make sure you are reading sources that are specific to Scotland rather than the UK in general, as sometimes there are different rules for the rest of the UK. Please refer, in particular, to [new guidance](https://www.gov.scot/publications/coronavirus-covid-19-phase-3-staying-safe-and-protecting-others/pages/overview/) released on 22nd September.
 - [University of Edinburgh - Coronavirus Updates](https://www.ed.ac.uk/news/covid-19)
 - [Independent SAGE](https://www.independentsage.org/)
   <details>
