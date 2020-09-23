@@ -10,7 +10,7 @@ An introduction to linear algebra, mainly in \\( \\mathbb{R}^n \\) but concludin
 
 - [Matrix Mindmap](resources/math1/ila/Matrices.pdf) from Gesina
 - [Exam advice and revision sheet](resources/math1/ila/Revision-Sheet.pdf)
-- [No bullshit concept maps](https://minireference.com/static/tutorials/conceptmap.pdf) good for seeing the big picture in the course
+- [Concept maps](https://minireference.com/static/tutorials/conceptmap.pdf) good for seeing the big picture in the course
 - [Linear algebra explained in 4 pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf) good resource to give you general idea. Might be worthwhile to go through it before the start of the course.
 - [Explanatory videos from Mathapptician](https://www.youtube.com/watch?v=S6yJY2NrVL0&list=PL9NlTZRdFADdc4yn_OVDpv-2pDiOKU7KH&index=3)
 - [Khan Academy videos](https://www.khanacademy.org/math/linear-algebra)

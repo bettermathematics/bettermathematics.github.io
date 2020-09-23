@@ -2,7 +2,7 @@
 
 last_update: 24/08/2020 23:48:28
 list:
-  d_cam:
+  dcam:
     credits: 60
     cw_exam_ratio:
       - 100
@@ -15,7 +15,7 @@ list:
     level: 11
     name: Dissertation (CAM)
     year: 5
-  d_cmf:
+  dcmf:
     credits: 60
     cw_exam_ratio:
       - 100
@@ -28,7 +28,7 @@ list:
     level: 11
     name: Dissertation (CMF)
     year: 5
-  d_fmo:
+  dfmo:
     credits: 60
     cw_exam_ratio:
       - 100
@@ -41,7 +41,7 @@ list:
     level: 11
     name: Dissertation (FMO)
     year: 5
-  d_or:
+  dor:
     credits: 60
     cw_exam_ratio:
       - 100
@@ -67,7 +67,7 @@ list:
     level: 11
     name: Dissertation (SDS)
     year: 5
-  d_sor:
+  dsor:
     credits: 60
     cw_exam_ratio:
       - 100
@@ -235,7 +235,7 @@ list:
     level: 11
     name: Stochastic Analysis in Finance
     year: 5
-  sm_or:
+  smor:
     credits: 10
     cw_exam_ratio:
       - 20
@@ -365,7 +365,7 @@ list:
     level: 11
     name: Mathematics Reading Course - S2
     year: 5
-  np_mc:
+  npmc:
     credits: 10
     cw_exam_ratio:
       - 20
@@ -469,7 +469,7 @@ list:
     level: 11
     name: Stochastic Control and Dynamic Asset Allocation
     year: 5
-  sim_or:
+  simor:
     credits: 10
     cw_exam_ratio:
       - 50
