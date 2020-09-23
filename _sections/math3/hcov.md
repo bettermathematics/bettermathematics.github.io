@@ -22,7 +22,7 @@ This course also has a "Skills" portion which involves mathematical reading and 
     - Priestley, [*Introduction to Complex Analysis*](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_cdi_askewsholts_vlebooks_9780191583339), 2nd edition, ISBN 9780198525622
 - [Cheatsheeet](resources/math3/hcov/Complex Variables.pdf) from Owen
 - [Cheatsheeet](resources/math3/hcov/Complex_Formula_Sheet.pdf) from Will
-- [Overview Sheet](https://github.com/smueksch/complex-analysis-overview) from Sebastian
+- [Overview Sheet](resources/math3/hcov/honours-complex-variables.pdf) from Sebastian ([Source on GitHub](https://github.com/smueksch/complex-analysis-overview))
 
 - Prerequisites:
     - [Proofs and Problem Solving (MATH08059)](/math1#pps) **OR** [Accelerated Proofs and Problem Solving (MATH08071)](\math1#apps) 
