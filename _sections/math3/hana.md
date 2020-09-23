@@ -17,7 +17,7 @@ Main topics: FPM Analysis revision, Cauchy sequences, Bolzano Weierstrass theore
 - Course Secretary: [Mr Christopher Palmer](<chris.palmer@ed.ac.uk>) 
 - [Cheatsheeet](resources/math3/hana/Analysis.pdf) from Owen
 - [Cheatsheeet](resources/math3/hana/Analysis_Formula_Sheet.pdf) from Will
-- [Overview Sheet](https://github.com/smueksch/real-analysis-overview) from Sebastian
+- [Overview Sheet](resources/math3/hana/honours-analysis.pdf) from Sebastian ([Source on GitHub](https://github.com/smueksch/real-analysis-overview))
 
 Textbook:
 - [W. R. Wade, *An Introduction to Analysis*](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA51221540550002466&vid=44UOE_VU2&search_scope=default_scope&tab=default_tab&lang=en_US&context=L)
