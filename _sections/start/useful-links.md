@@ -4,9 +4,6 @@ title: 1. Useful Links
 pinned: true
 ---
 
-- [Semester dates](https://www.ed.ac.uk/semester-dates)
-- [Past papers](https://exampapers.ed.ac.uk/discover?filtertype=author&filter_relational_operator=equals&filter=Mathematics%2C+School+of)
-
 #### Online services
 
 There are a number of online services that the university provides, each serving a number of different purposes:
@@ -39,3 +36,8 @@ Updates regarding study spaces in the library and around campus can be found [he
 - **Year 3**: TBC
 - **Year 4/5**: TBC
 - **School**: TBC
+
+#### Other useful links
+
+- [Semester dates](https://www.ed.ac.uk/semester-dates)
+- [Past papers](https://exampapers.ed.ac.uk/discover?filtertype=author&filter_relational_operator=equals&filter=Mathematics%2C+School+of)
