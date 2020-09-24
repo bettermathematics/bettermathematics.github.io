@@ -2,8 +2,7 @@
 
 last_update: 24/08/2020 23:48:28
 list:
-  d_cam:
-    acronym: D_CAM
+  dcam:
     credits: 60
     cw_exam_ratio:
       - 100
@@ -16,8 +15,7 @@ list:
     level: 11
     name: Dissertation (CAM)
     year: 5
-  d_cmf:
-    acronym: D_CMF
+  dcmf:
     credits: 60
     cw_exam_ratio:
       - 100
@@ -30,8 +28,7 @@ list:
     level: 11
     name: Dissertation (CMF)
     year: 5
-  d_fmo:
-    acronym: D_FMO
+  dfmo:
     credits: 60
     cw_exam_ratio:
       - 100
@@ -44,8 +41,7 @@ list:
     level: 11
     name: Dissertation (FMO)
     year: 5
-  d_or:
-    acronym: D_OR
+  dor:
     credits: 60
     cw_exam_ratio:
       - 100
@@ -59,7 +55,6 @@ list:
     name: Dissertation (Op. Res.)
     year: 5
   dsds:
-    acronym: DSDS
     credits: 60
     cw_exam_ratio:
       - 100
@@ -72,8 +67,7 @@ list:
     level: 11
     name: Dissertation (SDS)
     year: 5
-  d_sor:
-    acronym: D_SOR
+  dsor:
     credits: 60
     cw_exam_ratio:
       - 100
@@ -87,7 +81,6 @@ list:
     name: Dissertation (Stats. Op. Res.)
     year: 5
   rlt:
-    acronym: RLT
     credits: 10
     cw_exam_ratio:
       - 100
@@ -101,7 +94,6 @@ list:
     name: Research-Linked Topics
     year: 5
   rscam:
-    acronym: RSCAM
     credits: 20
     cw_exam_ratio:
       - 100
@@ -115,7 +107,6 @@ list:
     name: Research Skills for Computational Applied Mathematics
     year: 5
   bth:
-    acronym: BTh
     credits: 10
     cw_exam_ratio:
       - 25
@@ -129,7 +120,6 @@ list:
     name: Bayesian Theory
     year: 5
   dtf:
-    acronym: DTF
     credits: 10
     cw_exam_ratio:
       - 5
@@ -143,7 +133,6 @@ list:
     name: Discrete-Time Finance
     year: 5
   fru:
-    acronym: FRU
     credits: 10
     cw_exam_ratio:
       - 30
@@ -157,7 +146,6 @@ list:
     name: Finance, Risk and Uncertainty
     year: 5
   fuo:
-    acronym: FuO
     credits: 10
     cw_exam_ratio:
       - 40
@@ -171,7 +159,6 @@ list:
     name: Fundamentals of Optimization
     year: 5
   idan:
-    acronym: IDAn
     credits: 10
     cw_exam_ratio:
       - 100
@@ -185,7 +172,6 @@ list:
     name: Incomplete Data Analysis
     year: 5
   mmcs:
-    acronym: MMCS
     credits: 10
     cw_exam_ratio:
       - 100
@@ -199,7 +185,6 @@ list:
     name: Methodology, Modelling and Consulting Skills
     year: 5
   mrc1:
-    acronym: MRC1
     cw_exam_ratio:
       - 100
       - 0
@@ -212,7 +197,6 @@ list:
     name: Mathematics Reading Course - S1
     year: 5
   ppr:
-    acronym: PPr
     credits: 10
     cw_exam_ratio:
       - 100
@@ -226,7 +210,6 @@ list:
     name: Python Programming
     year: 5
   ips:
-    acronym: IPS
     credits: 10
     cw_exam_ratio:
       - 100
@@ -240,7 +223,6 @@ list:
     name: Introductory Probability and Statistics
     year: 5
   saf:
-    acronym: SAF
     credits: 20
     cw_exam_ratio:
       - 10
@@ -253,8 +235,7 @@ list:
     level: 11
     name: Stochastic Analysis in Finance
     year: 5
-  sm_or:
-    acronym: SM_OR
+  smor:
     credits: 10
     cw_exam_ratio:
       - 20
@@ -268,7 +249,6 @@ list:
     name: Stochastic Modelling
     year: 5
   sp:
-    acronym: SP
     credits: 10
     cw_exam_ratio:
       - 100
@@ -282,7 +262,6 @@ list:
     name: Statistical Programming
     year: 5
   bdan:
-    acronym: BDAn
     credits: 10
     cw_exam_ratio:
       - 100
@@ -296,7 +275,6 @@ list:
     name: Bayesian Data Analysis
     year: 5
   bds:
-    acronym: BDS
     credits: 10
     cw_exam_ratio:
       - 50
@@ -310,7 +288,6 @@ list:
     name: Biomedical Data Science
     year: 5
   csc:
-    acronym: CSc
     credits: 10
     cw_exam_ratio:
       - 100
@@ -324,7 +301,6 @@ list:
     name: Credit Scoring
     year: 5
   frt:
-    acronym: FRT
     credits: 10
     cw_exam_ratio:
       - 20
@@ -338,7 +314,6 @@ list:
     name: Financial Risk Theory
     year: 5
   grm:
-    acronym: GRM
     credits: 10
     cw_exam_ratio:
       - 5
@@ -352,7 +327,6 @@ list:
     name: Generalised Regression Models
     year: 5
   ico:
-    acronym: ICO
     credits: 10
     cw_exam_ratio:
       - 50
@@ -366,7 +340,6 @@ list:
     name: Integer and Combinatorial Optimization
     year: 5
   mlpy:
-    acronym: MLPy
     credits: 10
     cw_exam_ratio:
       - 50
@@ -380,7 +353,6 @@ list:
     name: Machine Learning in Python
     year: 5
   mrc2:
-    acronym: MRC2
     credits: 10
     cw_exam_ratio:
       - 100
@@ -393,8 +365,7 @@ list:
     level: 11
     name: Mathematics Reading Course - S2
     year: 5
-  np_mc:
-    acronym: NP_MC
+  npmc:
     credits: 10
     cw_exam_ratio:
       - 20
@@ -408,7 +379,6 @@ list:
     name: Numerical Probability and Monte Carlo
     year: 5
   ods:
-    acronym: ODS
     credits: 10
     cw_exam_ratio:
       - 50
@@ -422,7 +392,6 @@ list:
     name: Large Scale Optimization for Data Science
     year: 5
   omf:
-    acronym: OMF
     credits: 10
     cw_exam_ratio:
       - 50
@@ -436,7 +405,6 @@ list:
     name: Optimization Methods in Finance
     year: 5
   orei:
-    acronym: OREI
     credits: 10
     cw_exam_ratio:
       - 35
@@ -450,7 +418,6 @@ list:
     name: Operational Research in the Energy Industry
     year: 5
   proba:
-    acronym: Proba
     credits: 10
     cw_exam_ratio:
       - 100
@@ -464,7 +431,6 @@ list:
     name: Probability and Statistics
     year: 5
   rnap:
-    acronym: RNAP
     credits: 10
     cw_exam_ratio:
       - 20
@@ -478,7 +444,6 @@ list:
     name: Risk-Neutral Asset Pricing
     year: 5
   rsfm:
-    acronym: RSFM
     credits: 10
     cw_exam_ratio:
       - 100
@@ -492,7 +457,6 @@ list:
     name: Research Skills for Financial Mathematics
     year: 5
   scdaa:
-    acronym: SCDAA
     credits: 10
     cw_exam_ratio:
       - 20
@@ -505,8 +469,7 @@ list:
     level: 11
     name: Stochastic Control and Dynamic Asset Allocation
     year: 5
-  sim_or:
-    acronym: SIM_OR
+  simor:
     credits: 10
     cw_exam_ratio:
       - 50
@@ -520,7 +483,6 @@ list:
     name: Simulation
     year: 5
   srs:
-    acronym: SRS
     credits: 10
     cw_exam_ratio:
       - 100
@@ -534,7 +496,6 @@ list:
     name: Statistical Research Skills
     year: 5
   taor:
-    acronym: TAOR
     credits: 10
     cw_exam_ratio:
       - 100
@@ -548,7 +509,6 @@ list:
     name: Topics in Applied Operational Research
     year: 5
   ts:
-    acronym: TS
     credits: 10
     cw_exam_ratio:
       - 10
@@ -562,7 +522,6 @@ list:
     name: Time Series
     year: 5
   fac:
-    acronym: FAC
     credits: 20
     cw_exam_ratio:
       - 100
@@ -576,7 +535,6 @@ list:
     name: Fundamentals of Algebra and Calculus
     year: 1
   ima:
-    acronym: IMA
     credits: 20
     cw_exam_ratio:
       - 100
@@ -590,7 +548,6 @@ list:
     name: Introductory Mathematics with Applications
     year: 1
   ids:
-    acronym: IDS
     credits: 20
     cw_exam_ratio:
       - 100
@@ -604,7 +561,6 @@ list:
     name: Introduction to Data Science
     year: 1
   em1a:
-    acronym: EM1a
     credits: 20
     cw_exam_ratio:
       - 50
@@ -618,7 +574,6 @@ list:
     name: Engineering Mathematics 1a
     year: 1
   ila:
-    acronym: ILA
     credits: 20
     cw_exam_ratio:
       - 100
@@ -632,7 +587,6 @@ list:
     name: Introduction to Linear Algebra
     year: 1
   mns1a:
-    acronym: MNS1a
     credits: 20
     cw_exam_ratio:
       - 50
@@ -646,7 +600,6 @@ list:
     name: Mathematics for the Natural Sciences 1a
     year: 1
   aac:
-    acronym: AAC
     credits: 20
     cw_exam_ratio:
       - 20
@@ -660,7 +613,6 @@ list:
     name: Accelerated Algebra and Calculus for Direct Entry
     year: 2
   apps:
-    acronym: APPS
     credits: 10
     cw_exam_ratio:
       - 50
@@ -674,7 +626,6 @@ list:
     name: Accelerated Proofs and Problem Solving
     year: 2
   fom:
-    acronym: FoM
     credits: 10
     cw_exam_ratio:
       - 100
@@ -688,7 +639,6 @@ list:
     name: Facets of Mathematics
     year: 2
   prob:
-    acronym: Prob
     credits: 10
     cw_exam_ratio:
       - 100
@@ -702,7 +652,6 @@ list:
     name: Probability
     year: 2
   svcde:
-    acronym: SVCDE
     credits: 20
     cw_exam_ratio:
       - 50
@@ -716,7 +665,6 @@ list:
     name: Several Variable Calculus and Differential Equations
     year: 2
   cap:
-    acronym: CAP
     credits: 20
     cw_exam_ratio:
       - 40
@@ -730,7 +678,6 @@ list:
     name: Calculus and its Applications
     year: 1
   em1b:
-    acronym: EM1b
     credits: 20
     cw_exam_ratio:
       - 50
@@ -744,7 +691,6 @@ list:
     name: Engineering Mathematics 1b
     year: 1
   mns1b:
-    acronym: MNS1b
     credits: 20
     cw_exam_ratio:
       - 50
@@ -758,7 +704,6 @@ list:
     name: Mathematics for the Natural Sciences 1b
     year: 1
   pps:
-    acronym: PPS
     credits: 20
     cw_exam_ratio:
       - 50
@@ -772,7 +717,6 @@ list:
     name: Proofs and Problem Solving
     year: 1
   cnu:
-    acronym: CNu
     credits: 10
     cw_exam_ratio:
       - 100
@@ -786,7 +730,6 @@ list:
     name: Computing and Numerics
     year: 2
   fpm:
-    acronym: FPM
     credits: 20
     cw_exam_ratio:
       - 40
@@ -800,7 +743,6 @@ list:
     name: Fundamentals of Pure Mathematics
     year: 2
   sta2:
-    acronym: Sta2
     credits: 10
     cw_exam_ratio:
       - 20
@@ -814,7 +756,6 @@ list:
     name: Statistics (Year 2)
     year: 2
   dmp:
-    acronym: DMP
     credits: 40
     cw_exam_ratio:
       - 100
@@ -828,7 +769,6 @@ list:
     name: Project in Mathematics (Double)
     year: 4
   med:
-    acronym: MEd
     credits: 20
     cw_exam_ratio:
       - 100
@@ -842,7 +782,6 @@ list:
     name: Mathematical Education
     year: 4
   mproj:
-    acronym: MProj
     credits: 20
     cw_exam_ratio:
       - 100
@@ -856,7 +795,6 @@ list:
     name: Mathematics Project
     year: 4
   pmf:
-    acronym: PMF
     credits: 20
     cw_exam_ratio:
       - 5
@@ -870,7 +808,6 @@ list:
     name: Probability, Measure & Finance
     year: 4
   scs:
-    acronym: SCS
     credits: 20
     cw_exam_ratio:
       - 100
@@ -884,7 +821,6 @@ list:
     name: Statistical Case Studies
     year: 4
   geom:
-    acronym: Geom
     credits: 10
     cw_exam_ratio:
       - 20
@@ -898,7 +834,6 @@ list:
     name: Geometry
     year: 3
   halg:
-    acronym: HAlg
     credits: 20
     cw_exam_ratio:
       - 50
@@ -912,7 +847,6 @@ list:
     name: Honours Algebra
     year: 3
   hdeq:
-    acronym: HDEq
     credits: 20
     cw_exam_ratio:
       - 50
@@ -926,7 +860,6 @@ list:
     name: Honours Differential Equations
     year: 3
   nla:
-    acronym: NLA
     credits: 10
     cw_exam_ratio:
       - 50
@@ -940,7 +873,6 @@ list:
     name: Numerical Linear Algebra
     year: 3
   smo:
-    acronym: SMo
     credits: 10
     cw_exam_ratio:
       - 5
@@ -954,7 +886,6 @@ list:
     name: Stochastic Modelling
     year: 3
   stme:
-    acronym: StMe
     credits: 10
     cw_exam_ratio:
       - 30
@@ -968,7 +899,6 @@ list:
     name: Statistical Methodology
     year: 3
   amam:
-    acronym: AMAM
     credits: 20
     cw_exam_ratio:
       - 20
@@ -982,7 +912,6 @@ list:
     name: Advanced Methods of Applied Mathematics
     year: 4
   asde:
-    acronym: ASDE
     credits: 10
     cw_exam_ratio:
       - 50
@@ -996,7 +925,6 @@ list:
     name: Applied Stochastic Differential Equations
     year: 4
   dman:
-    acronym: DMan
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1010,7 +938,6 @@ list:
     name: Differentiable Manifolds
     year: 4
   eap:
-    acronym: EAP
     credits: 10
     cw_exam_ratio:
       - 5
@@ -1024,7 +951,6 @@ list:
     name: Essentials in Analysis and Probability
     year: 4
   ems:
-    acronym: EMS
     credits: 10
     cw_exam_ratio:
       - 100
@@ -1038,7 +964,6 @@ list:
     name: Entrepreneurship in the Mathematical Sciences
     year: 4
   fuor:
-    acronym: FuOR
     cw_exam_ratio:
       - 20
       - 80
@@ -1051,7 +976,6 @@ list:
     name: Fundamentals of Operational Research
     year: 4
   grth:
-    acronym: GrTh
     credits: 10
     cw_exam_ratio:
       - 25
@@ -1065,7 +989,6 @@ list:
     name: Group Theory
     year: 4
   gtop:
-    acronym: GTop
     credits: 10
     cw_exam_ratio:
       - 100
@@ -1079,7 +1002,6 @@ list:
     name: General Topology
     year: 4
   lan:
-    acronym: LAn
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1093,7 +1015,6 @@ list:
     name: Linear Analysis
     year: 4
   mbi:
-    acronym: MBi
     credits: 10
     cw_exam_ratio:
       - 40
@@ -1107,7 +1028,6 @@ list:
     name: Mathematical Biology
     year: 4
   pde:
-    acronym: PDE
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1121,7 +1041,6 @@ list:
     name: Introduction to Partial Differential Equations
     year: 4
   fim:
-    acronym: FiM
     credits: 10
     cw_exam_ratio:
       - 5
@@ -1135,7 +1054,6 @@ list:
     name: Financial Mathematics
     year: 3
   hana:
-    acronym: HAna
     credits: 20
     cw_exam_ratio:
       - 30
@@ -1149,7 +1067,6 @@ list:
     name: Honours Analysis
     year: 3
   hcov:
-    acronym: HCoV
     credits: 20
     cw_exam_ratio:
       - 25
@@ -1163,7 +1080,6 @@ list:
     name: Honours Complex Variables
     year: 3
   int:
-    acronym: INT
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1177,7 +1093,6 @@ list:
     name: Introduction to Number Theory
     year: 3
   lpms:
-    acronym: LPMS
     credits: 10
     cw_exam_ratio:
       - 50
@@ -1191,7 +1106,6 @@ list:
     name: Linear Programming, Modelling and Solution
     year: 3
   nuode:
-    acronym: NuODE
     credits: 10
     cw_exam_ratio:
       - 50
@@ -1205,7 +1119,6 @@ list:
     name: Numerical Ordinary Differential Equations and Applications
     year: 3
   scomp:
-    acronym: SComp
     credits: 10
     cw_exam_ratio:
       - 100
@@ -1219,7 +1132,6 @@ list:
     name: Statistical Computing
     year: 3
   asta:
-    acronym: ASta
     credits: 10
     cw_exam_ratio:
       - 10
@@ -1233,7 +1145,6 @@ list:
     name: Applied Statistics
     year: 4
   atop:
-    acronym: ATop
     credits: 10
     cw_exam_ratio:
       - 5
@@ -1247,7 +1158,6 @@ list:
     name: Algebraic Topology
     year: 4
   fan:
-    acronym: FAn
     credits: 10
     cw_exam_ratio:
       - 5
@@ -1261,7 +1171,6 @@ list:
     name: Fourier Analysis
     year: 4
   gath:
-    acronym: GaTh
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1275,7 +1184,6 @@ list:
     name: Galois Theory
     year: 4
   syg:
-    acronym: SyG
     credits: 10
     cw_exam_ratio:
       - 100
@@ -1289,7 +1197,6 @@ list:
     name: Symmetry and Geometry
     year: 4
   tmb:
-    acronym: TMB
     credits: 10
     cw_exam_ratio:
       - 100
@@ -1303,7 +1210,6 @@ list:
     name: Topics in Mathematical Biology
     year: 4
   mdiss:
-    acronym: MDiss
     credits: 40
     cw_exam_ratio:
       - 100
@@ -1317,7 +1223,6 @@ list:
     name: Mathematics Dissertation
     year: 5
   rana:
-    acronym: RAna
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1331,7 +1236,6 @@ list:
     name: Real Analysis
     year: 5
   tna:
-    acronym: TNA
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1345,7 +1249,6 @@ list:
     name: Topics in Noncommutative Algebra
     year: 5
   varc:
-    acronym: VarC
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1359,7 +1262,6 @@ list:
     name: Variational Calculus
     year: 5
   ads:
-    acronym: ADS
     credits: 10
     cw_exam_ratio:
       - 25
@@ -1373,7 +1275,6 @@ list:
     name: Applied Dynamical Systems
     year: 5
   ag:
-    acronym: AG
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1387,7 +1288,6 @@ list:
     name: Algebraic Geometry
     year: 5
   asd:
-    acronym: ASD
     credits: 10
     cw_exam_ratio:
       - 0
@@ -1401,7 +1301,6 @@ list:
     name: The Analysis of Survival Data
     year: 5
   da:
-    acronym: DA
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1415,7 +1314,6 @@ list:
     name: Data Assimilation
     year: 5
   ggr:
-    acronym: GGR
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1429,7 +1327,6 @@ list:
     name: Geometry of General Relativity
     year: 5
   miab:
-    acronym: MiAB
     credits: 10
     cw_exam_ratio:
       - 100
@@ -1443,7 +1340,6 @@ list:
     name: Mathematics in Action B
     year: 5
   npde:
-    acronym: NPDE
     credits: 10
     cw_exam_ratio:
       - 20
@@ -1457,7 +1353,6 @@ list:
     name: Numerical Partial Differential Equations
     year: 5
   tmph:
-    acronym: TMPh
     credits: 10
     cw_exam_ratio:
       - 50
@@ -1471,7 +1366,6 @@ list:
     name: Topics in Mathematical Physics A
     year: 5
   ant:
-    acronym: ANT
     credits: 10
     cw_exam_ratio:
       - 100

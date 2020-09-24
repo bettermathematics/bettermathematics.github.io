@@ -198,6 +198,31 @@ table {
     border-collapse: collapse;
     border-spacing: 0
 }
+table { /* GitHub Markdown CSS (from https://gist.github.com/andyferra/2554919) */
+    padding: 0;
+    margin: 0 0 10px 0; }
+    table tr {
+      border-top: 1px solid #cccccc;
+      background-color: white;
+      margin: 0;
+      padding: 0; }
+      table tr:nth-child(2n) {
+        background-color: #f8f8f8; }
+      table tr th {
+        font-weight: bold;
+        border: 1px solid #cccccc;
+        text-align: left;
+        margin: 0;
+        padding: 6px 13px; }
+      table tr td {
+        border: 1px solid #cccccc;
+        text-align: left;
+        margin: 0;
+        padding: 6px 13px; }
+      table tr th :first-child, table tr td :first-child {
+        margin-top: 0; }
+      table tr th :last-child, table tr td :last-child {
+        margin-bottom: 0; }
 html, button, input, select, textarea {
     color: #222
 }
@@ -261,7 +286,7 @@ blockquote {
     padding-left: 15px;
     margin-left: 15px
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
     font-weight: normal;
     /*text-transform: uppercase;*/
     display: inline-block;
@@ -270,6 +295,15 @@ h1, h2, h3, h4, h5, h6 {
     padding-bottom: 3px;
     margin-bottom: 10px;
     margin-top: 36px
+}
+h4, h5, h6 {
+    font-weight: bold;
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px solid rgb(241, 241, 241);
+    padding-bottom: 3px;
+    margin-bottom: 10px;
+    margin-top: 10px
 }
 #menu {
     width: 959px;
@@ -324,10 +358,10 @@ h1, h2, h3, h4, h5, h6 {
     /* Make buttons appear on their own line by default */
     /* See media query below for how we do it on one line */
     display: block;
-    
+
     /* For on-same-line styling */
     width: auto;
-    
+
     /* Prettify */
     font-size: 1.2em;
     text-align: center;
@@ -506,7 +540,7 @@ section .link-icon, section .edit-pencil {
     color: rgba(119, 119, 119, .7);
     opacity: 1;
 }
-/* 
+/*
 .link-icon, .edit-pencil {
     opacity: 0;
 } */
@@ -532,3 +566,21 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     opacity: 1;
     color: black;
 }
+
+li details { display: inline; }
+li details summary { cursor: pointer; }
+li details summary::-webkit-details-marker { display: none; }
+li details summary:focus { outline: none; }
+li details summary::before {
+    font-size: 75%;
+    line-height: 0;
+    top: -0.1em;
+    position: relative;
+    vertical-align: baseline;
+}
+li details summary::before { content: attr(data-open); }
+li details[open] { display: block; }
+li details[open] summary::before { content: attr(data-close); }
+
+#course-details summary { cursor: pointer; }
+#course-details summary:focus { outline: none; }

@@ -1,6 +1,9 @@
 ---
-title: Topics in Noncommutative Algebra	
+title: Topics in Noncommutative Algebra
 course-acronym: tna
 year: 5
-semester: 1
 ---
+
+<!-- Remove this comment and add a summary! -->
+
+<!-- **Main topics**: -->

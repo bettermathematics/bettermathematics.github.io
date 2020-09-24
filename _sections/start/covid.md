@@ -1,9 +1,15 @@
 ---
 year: start
-title: COVID Resources
+title: 2. COVID Resources
 ---
-- **Scotland Government** [Guidance](https://www.gov.scot/coronavirus-covid-19/)
-- **University of Edinburgh** [Information](https://www.ed.ac.uk/news/covid-19)
-- **Independent Sage** <details>Independent scientific advisory group for emergencies, constituted of experts from a variety of fields, providing detailed analysis and proposals on the UK COVID response. Accessible and comprehensible public briefings can be found at their [YouTube channel](https://www.youtube.com/channel/UCqqwC56XTP8F9zeEUCOttPQ), these are broadcast live on Friday lunchtimes, and their [Website](https://www.independentsage.org/) can be referenced for scientific reports and more detailed analysis.
+- [Scottish Government - Coronavirus in Scotland](https://www.gov.scot/coronavirus-covid-19/)<br/> In general, make sure you are reading sources that are specific to Scotland rather than the UK in general, as sometimes there are different rules for the rest of the UK. Please refer, in particular, to [new guidance](https://www.gov.scot/publications/coronavirus-covid-19-phase-3-staying-safe-and-protecting-others/pages/overview/) released on 22nd September.
+- [University of Edinburgh - Coronavirus Updates](https://www.ed.ac.uk/news/covid-19)
+- [Independent SAGE](https://www.independentsage.org/)
+  <details>
+    <summary data-open="(click here for more info)" data-close="(collapse)"></summary>
+    <blockquote>
+      <b>Independent</b> <b>S</b>cientific <b>A</b>dvisory <b>G</b>roup for <b>E</b>mergencies, constituted of experts from a variety of fields, providing detailed analysis and proposals on the UK COVID response. Accessible and comprehensible public briefings can be found at their <a href="https://www.youtube.com/channel/UCqqwC56XTP8F9zeEUCOttPQ">YouTube channel</a>, these are broadcast live on Friday lunchtimes, and their website can be referenced for scientific reports and more detailed analysis.
+    </blockquote>
   </details>
-- **The Atlantic** COVID-19 [coverage](https://www.theatlantic.com/category/coronavirus-covid-19/) has been consistently excellent and is free to access
+- [The Atlantic COVID-19 coverage](https://www.theatlantic.com/category/coronavirus-covid-19/) has been consistently excellent and is free to access.
+- Visit [Financial Times - Coronavirus tracked](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938) for visual data on the coronavirus pandemic, this is free to access.

@@ -2,5 +2,8 @@
 title: Applied Dynamical Systems
 course-acronym: ads
 year: 5
-semester: 2
 ---
+
+<!-- Remove this comment and add a summary! -->
+
+<!-- **Main topics**: -->
