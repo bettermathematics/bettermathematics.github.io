@@ -6,7 +6,7 @@ year: 4
 
 #### Resources
 
-- [Overview Sheet](https://github.com/smueksch/measure-theory-overview) from Sebastian
+- [Overview Sheet](resources/math4/eap/essentials-analysis-prob.pdf) from Sebastian ([Source on GitHub](https://github.com/smueksch/measure-theory-overview)
 
 #### Relevant reading available online
 

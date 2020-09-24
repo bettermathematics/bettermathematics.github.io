@@ -14,7 +14,7 @@ This course has a "Skills" portion which involves mathematical reading and writi
 
 - [Cheatsheet](resources/math3/hcov/Complex Variables.pdf) from Owen
 - [Cheatsheet](resources/math3/hcov/Complex_Formula_Sheet.pdf) from Will
-- [Overview Sheet](https://github.com/smueksch/complex-analysis-overview) from Sebastian
+- [Overview Sheet](resources/math3/hcov/honours-complex-variables.pdf) from Sebastian ([Source on GitHub](https://github.com/smueksch/complex-analysis-overview))
 
 #### Relevant reading available online
 

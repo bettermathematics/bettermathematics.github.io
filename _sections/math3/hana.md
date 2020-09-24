@@ -16,7 +16,7 @@ This course also has a "Skills" portion which involves practising explaining mat
 
 - [Cheatsheet](resources/math3/hana/Analysis.pdf) from Owen
 - [Cheatsheet](resources/math3/hana/Analysis_Formula_Sheet.pdf) from Will
-- [Overview Sheet](https://github.com/smueksch/real-analysis-overview) from Sebastian
+- [Overview Sheet](resources/math3/hana/honours-analysis.pdf) from Sebastian ([Source on GitHub](https://github.com/smueksch/real-analysis-overview))
 
 #### Relevant reading available online
 
