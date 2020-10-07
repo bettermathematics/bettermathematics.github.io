@@ -6,9 +6,9 @@ title: 2. COVID Resources
   <details>
     <summary data-open="(partial) guidance for students" data-close="(collapse)"></summary>
     <blockquote>
-      Please note that it is worth reading the complete guidance at the above link.
-"It is an offence not to comply with the restrictions on gatherings. However, it is a defence to show that there was a reasonable excuse in the circumstances. A reasonable excuse might include a visit home for a family emergency, such as a bereavement, or for wellbeing reasons."
-      "If you need to return home because you require the support and care of a friend, family member or other supportive person to allow you to comply with the requirement to self-isolate, it is important you follow the guidance on self-isolating to ensure any return home can be done so as safely as possible. Reasons for needing support may include, but are not limited to, physical, financial or mental health support."
+      <p>Please note that it is worth reading the complete guidance at the above link.</p>
+<p>"It is an offence not to comply with the restrictions on gatherings. However, it is a defence to show that there was a reasonable excuse in the circumstances. A reasonable excuse might include a visit home for a family emergency, such as a bereavement, or for wellbeing reasons."</p>
+      <p>"If you need to return home because you require the support and care of a friend, family member or other supportive person to allow you to comply with the requirement to self-isolate, it is important you follow the guidance on self-isolating to ensure any return home can be done so as safely as possible. Reasons for needing support may include, but are not limited to, physical, financial or mental health support."</p>
     </blockquote>
   </details>
 - [University of Edinburgh - Coronavirus Updates](https://www.ed.ac.uk/news/covid-19)
