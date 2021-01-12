@@ -2,13 +2,8 @@
 year: start
 title: 2. COVID Resources
 ---
-- [Scottish Government - Coronavirus in Scotland](https://www.gov.scot/coronavirus-covid-19/)<br/> In general, make sure you are reading sources that are specific to Scotland rather than the UK in general, as sometimes there are different rules for the rest of the UK. 
-  <details>
-    <summary data-open="(click here for key quotes from student guidance)" data-close="(collapse)"></summary>
-    <blockquote>
-      <p>Please note that it is worth reading the complete guidance at the above link, it includes information on visiting home, support when isolating, and changing your permanent place of residence. The following quotes are taken from that webpage.<br>"It is an offence not to comply with the restrictions on gatherings. However, it is a defence to show that there was a reasonable excuse in the circumstances. A reasonable excuse might include a visit home for a family emergency, such as a bereavement, or for wellbeing reasons."<br>"If you need to return home because you require the support and care of a friend, family member or other supportive person to allow you to comply with the requirement to self-isolate, it is important you follow the guidance on self-isolating to ensure any return home can be done so as safely as possible. Reasons for needing support may include, but are not limited to, physical, financial or mental health support."</p>
-    </blockquote>
-  </details>
+- [Scottish Government - Coronavirus in Scotland](https://www.gov.scot/coronavirus-covid-19/)<br/> In general, make sure you are reading sources that are specific to Scotland rather than the UK in general, as sometimes there are different rules for the rest of the UK.
+- Further advice for students is hosted on the [SAAS website](https://www.saas.gov.uk/news/coronavirus).
 - [University of Edinburgh - Coronavirus Updates](https://www.ed.ac.uk/news/covid-19)
 - [Independent SAGE](https://www.independentsage.org/)
   <details>
