@@ -2,7 +2,7 @@
 year: start
 title: 2. COVID Resources
 ---
-- [Scottish Government - Coronavirus in Scotland](https://www.gov.scot/coronavirus-covid-19/)<br/> In general, make sure you are reading sources that are specific to Scotland rather than the UK in general, as sometimes there are different rules for the rest of the UK. Please refer, in particular, to [new guidance](https://www.gov.scot/publications/coronavirus-covid-19-phase-3-staying-safe-and-protecting-others/pages/overview/) released on 22nd September and updated on 6th October with more [specific guidance for students](https://www.gov.scot/publications/coronavirus-covid-19-what-you-can-and-cannot-do/pages/students).
+- [Scottish Government - Coronavirus in Scotland](https://www.gov.scot/coronavirus-covid-19/)<br/> In general, make sure you are reading sources that are specific to Scotland rather than the UK in general, as sometimes there are different rules for the rest of the UK. 
   <details>
     <summary data-open="(click here for key quotes from student guidance)" data-close="(collapse)"></summary>
     <blockquote>
