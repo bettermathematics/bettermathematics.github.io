@@ -12,6 +12,7 @@ It showcases the power of abstraction and brings together several different topi
 
 #### Resources
 
+- [Mega Cheatsheet](https://github.com/9nine9nine9/halg-cheatsheet/releases/download/latest/main.pdf) from Jacob ([Source on GitHub](https://github.com/9nine9nine9/halg-cheatsheet)). Has every theorem, definition, lemma, corollary and proposition that was examinable in 2023.
 - [Cheatsheet](resources/math3/halg/Algebra.pdf) from Owen
 - [Cheatsheet](resources/math3/halg/Algebra_Formula_Sheet.pdf) from Will
 - [Overview Sheet](resources/math3/halg/honours-algebra.pdf) from Sebastian ([Source on GitHub](https://github.com/smueksch/algebra-overview))
