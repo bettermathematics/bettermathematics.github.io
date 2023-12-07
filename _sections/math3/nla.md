@@ -10,7 +10,7 @@ This course explores reliable and computationally efficient numerical techniques
 
 #### Resources
 
-- [Cheatsheet](resources/math3/nla/Num_LinAlg_CribSheet) from Tristan
+- [Cheatsheet](resources/math3/nla/Num_LinAlg_CribSheet.pdf) from Tristan
 
 #### Relevant reading available online
 
