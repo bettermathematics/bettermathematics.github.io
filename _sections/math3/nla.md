@@ -8,6 +8,10 @@ This course explores reliable and computationally efficient numerical techniques
 
 **Main topics**: solution of linear systems of equations, the solution of least squares problems, finding the eigenvectors and/or eigenvalues of a matrux
 
+#### Resources
+
+- [Cheatsheet](resources/math3/nla/Num_LinAlg_CribSheet) from Tristan
+
 #### Relevant reading available online
 
 - [*Applied numerical linear algebra*](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51153265030002466), James "Jim" Demmel, SIAM, ISBN: 978-0898713893
